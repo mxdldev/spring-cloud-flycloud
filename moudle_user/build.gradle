@@ -1,0 +1,8 @@
+dependencies {
+    compile project(':lib_common')
+}
+jar {
+    manifest {
+        attributes 'Main-Class': 'com.fly.user.UserServiceApplication'
+    }
+}

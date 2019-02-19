@@ -1,0 +1,31 @@
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 20000
+
+ribbon:
+  ReadTimeout: 20000
+  ConnectTimeout: 20000
+
+zuul:
+  host:
+    connect-timeout-millis: 20000
+    socket-timeout-millis: 20000
+
+  routes:
+    user-service:
+      path: /userapi/**
+      serviceId: user-service
+      sensitiveHeaders:
+
+    blog-service:
+      path: /blogapi/**
+      serviceId: blog-service
+      sensitiveHeaders:
+
+server:
+  port: 5000
+

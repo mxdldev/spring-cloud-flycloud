@@ -1,0 +1,12 @@
+server:
+  port: 8766
+security.basic.enabled: false
+turbine:
+  aggregator:
+    clusterConfig: default
+  appConfig: user-service , blog-service
+  clusterNameExpression: new String("default")
+
+management:
+  security:
+    enabled: false

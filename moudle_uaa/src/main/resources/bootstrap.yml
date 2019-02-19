@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: uaa-service
+  cloud:
+    config:
+      uri: http://localhost:8769
+      fail-fast: true
+  profiles:
+      active: pro
+management:
+  security:
+    enabled: false

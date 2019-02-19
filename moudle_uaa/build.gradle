@@ -1,0 +1,14 @@
+dependencies {
+    compile 'org.springframework.boot:spring-boot-starter-web'
+    compile 'org.springframework.boot:spring-boot-starter-data-jpa'
+    compile 'org.springframework.boot:spring-boot-starter-actuator'
+    compile 'org.springframework.cloud:spring-cloud-starter-config'
+    compile 'org.springframework.cloud:spring-cloud-starter-oauth2'
+    compile 'org.springframework.cloud:spring-cloud-starter-eureka'
+    compile 'mysql:mysql-connector-java'
+}
+jar {
+    manifest {
+        attributes 'Main-Class': 'com.fly.uaa.UaaServiceApplication'
+    }
+}

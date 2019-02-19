@@ -1,0 +1,30 @@
+server:
+  port: 8762
+
+
+spring:
+  zipkin:
+    base-url: http://localhost:9411
+
+#  rabbitmq:
+#    host: localhost
+#    port: 5672
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/sys-user?useUnicode=true&characterEncoding=utf8&characterSetResults=utf8
+    username: root
+    password: 123456
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+    publisher-confirms: true
+    virtual-host: /
+
+foo: foo version 1

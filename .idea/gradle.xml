@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:/soft/android/gradle-4.6" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/lib_common" />
+            <option value="$PROJECT_DIR$/moudle_admin" />
+            <option value="$PROJECT_DIR$/moudle_blog" />
+            <option value="$PROJECT_DIR$/moudle_config" />
+            <option value="$PROJECT_DIR$/moudle_eureka" />
+            <option value="$PROJECT_DIR$/moudle_gateway" />
+            <option value="$PROJECT_DIR$/moudle_log" />
+            <option value="$PROJECT_DIR$/moudle_monitor" />
+            <option value="$PROJECT_DIR$/moudle_uaa" />
+            <option value="$PROJECT_DIR$/moudle_user" />
+            <option value="$PROJECT_DIR$/moudle_zipkin" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

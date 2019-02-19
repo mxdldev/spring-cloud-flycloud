@@ -1,0 +1,13 @@
+rootProject.name = 'FlyCloud'
+include 'moudle_eureka'
+include 'lib_common'
+include 'moudle_config'
+include 'moudle_zipkin'
+include 'moudle_admin'
+include 'moudle_gateway'
+include 'moudle_monitor'
+include 'moudle_uaa'
+include 'moudle_user'
+include 'moudle_blog'
+include 'moudle_log'
+

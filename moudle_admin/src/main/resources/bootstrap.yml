@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: admin-service
+  cloud:
+    config:
+      uri: http://localhost:8769
+      fail-fast: true
+  profiles:
+    active: pro
+
+
+
+
+
+
+

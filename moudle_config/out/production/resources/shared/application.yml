@@ -1,0 +1,38 @@
+#logging:
+#  level:
+#    org.springframework.security: INFO
+
+#hystrix:
+#  command:
+#    default:
+#      execution:
+#        isolation:
+#          thread:
+#            timeoutInMilliseconds: 10000
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+
+#endpoints:
+#  health:
+#    sensitive: false
+#    enabled: true
+#  actuator:
+#    enabled: true
+#    sensitive: false
+#  beans:
+#    sensitive: false
+#    enabled: true
+
+
+management:
+  security:
+    enabled: false
+
+feign:
+  hystrix:
+    enabled: true
+
+
