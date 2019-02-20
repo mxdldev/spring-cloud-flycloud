@@ -46,7 +46,7 @@ public class SwaggerConfig {
         return new Docket(DocumentationType.SWAGGER_2)
                 .apiInfo(apiInfo())
                 .select()
-                .apis(RequestHandlerSelectors.basePackage("com.forezp.web"))
+                .apis(RequestHandlerSelectors.basePackage("com.fly"))
                 .paths(PathSelectors.any())
                 .build().globalOperationParameters(parameter());
     }
@@ -56,7 +56,7 @@ public class SwaggerConfig {
                 .title(" blog-service api ")
                 .description("blog-service 微服务")
                 .termsOfServiceUrl("")
-                .contact("forezp")
+                .contact("fly")
                 .version("1.0")
                 .build();
     }
