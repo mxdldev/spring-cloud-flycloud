@@ -1,0 +1,33 @@
+POST http://localhost:8762/user/fly
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NTA4ODg1MzUsInVzZXJfbmFtZSI6ImZseSIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiIsIlJPTEVfQURNSU4iXSwianRpIjoiYTQ3MDcwZTQtMDYzZi00OWVjLTlmMTctMDEzODExNmQ0NjQxIiwiY2xpZW50X2lkIjoidWFhLXNlcnZpY2UiLCJzY29wZSI6WyJzZXJ2aWNlIl19.IX1wNyEBtTk0Fg9SCnPZ8NY0hUSt7Rnlz0vfZJYGsmNUNpCRtpRs2ODW1tmJMhEHAnyoOA2XS-ujv9NtgW69OwG4UXa9hLwuoH4rrsFA92WWioPZjfZDjm_s-cPPhSpVI4FHG50YgCfln6iIBIkwKnP7FkWzahVQv-ooC0LBtaT2PQhTYGfBNYiGfBvzn4a1WDs0wc1eqq6iHa7p8IQsAktC7-87u_dUk7XQPVkuNdYZQhJWyP6r7VWFkaHkB79rvE1UzSALyuUECBWNd57sIsULtxAVSb8-PbjoH-Gf_TpaMG2H4YeU1vfY4-9Bw0xGPRSwznF8dCgFZsfIk745TA
+
+<> 2019-02-22T102832.200.json
+
+###
+
+POST http://localhost:8762/user/login?=&username=fly&password=123456
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-22T102226.200.json
+
+###
+
+POST http://localhost:8762/user/login?=&username=fly&password=123456
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-22T102141.200.json
+
+###
+
+POST http://localhost:8762/user/login?=&username=fly&password=123456
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-22T101452.200.json
+
+###
+

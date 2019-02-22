@@ -1,0 +1,12 @@
+{
+  "code": 0,
+  "error": "",
+  "data": {
+    "user": {
+      "id": 3,
+      "username": "fly",
+      "password": "$2a$10$9tpdmwyRzbrp0ggiG9FFwe8eSP/7h1iG2jJ5Vw3BBk20FW7E48Q.K"
+    },
+    "token": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NTA4ODg1MzUsInVzZXJfbmFtZSI6ImZseSIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiIsIlJPTEVfQURNSU4iXSwianRpIjoiYTQ3MDcwZTQtMDYzZi00OWVjLTlmMTctMDEzODExNmQ0NjQxIiwiY2xpZW50X2lkIjoidWFhLXNlcnZpY2UiLCJzY29wZSI6WyJzZXJ2aWNlIl19.IX1wNyEBtTk0Fg9SCnPZ8NY0hUSt7Rnlz0vfZJYGsmNUNpCRtpRs2ODW1tmJMhEHAnyoOA2XS-ujv9NtgW69OwG4UXa9hLwuoH4rrsFA92WWioPZjfZDjm_s-cPPhSpVI4FHG50YgCfln6iIBIkwKnP7FkWzahVQv-ooC0LBtaT2PQhTYGfBNYiGfBvzn4a1WDs0wc1eqq6iHa7p8IQsAktC7-87u_dUk7XQPVkuNdYZQhJWyP6r7VWFkaHkB79rvE1UzSALyuUECBWNd57sIsULtxAVSb8-PbjoH-Gf_TpaMG2H4YeU1vfY4-9Bw0xGPRSwznF8dCgFZsfIk745TA"
+  }
+}

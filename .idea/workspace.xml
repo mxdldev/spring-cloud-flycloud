@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9f366cc-d6b3-4967-a989-a813e7df54f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/moudle_uaa/src/main/resources/fly-jwt.jks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-02-22T102832.200.json" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/2019-02-22T102832.200.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/FlyCloud-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/FlyCloud-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moudle_blog/out/production/classes/com/fly/blog/config/SwaggerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/moudle_blog/out/production/classes/com/fly/blog/config/SwaggerConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moudle_blog/src/main/java/com/fly/blog/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/moudle_blog/src/main/java/com/fly/blog/config/SwaggerConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moudle_blog/src/main/resources/public.cert" beforeDir="false" afterPath="$PROJECT_DIR$/moudle_blog/src/main/resources/public.cert" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moudle_log/out/production/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/moudle_log/out/production/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moudle_log/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/moudle_log/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moudle_uaa/out/production/resources/fzp-jwt.jks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/moudle_uaa/src/main/java/com/fly/uaa/config/OAuth2Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/moudle_uaa/src/main/java/com/fly/uaa/config/OAuth2Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moudle_uaa/src/main/resources/fzp-jwt.jks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/moudle_user/out/production/classes/com/fly/user/config/SwaggerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/moudle_user/out/production/classes/com/fly/user/config/SwaggerConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moudle_user/src/main/java/com/fly/user/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/moudle_user/src/main/java/com/fly/user/config/SwaggerConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moudle_user/src/main/resources/public.cert" beforeDir="false" afterPath="$PROJECT_DIR$/moudle_user/src/main/resources/public.cert" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/admin-service-pro.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/admin-service-pro.log" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -58,6 +42,7 @@
     <ignored path="$PROJECT_DIR$/moudle_log/.gradle/" />
     <ignored path="$PROJECT_DIR$/moudle_log/build/" />
     <ignored path="$PROJECT_DIR$/moudle_log/out/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,10 +128,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/moudle_uaa/src/main/java/com/fly/uaa/config/OAuth2Config.java">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+            <state relative-caret-position="114">
+              <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -175,6 +160,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="dummy://restClient/response7.json" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -252,45 +240,6 @@
               <item name="FlyCloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="FlyCloud" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
-            <path>
-              <item name="FlyCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FlyCloud" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="moudle_blog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="FlyCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FlyCloud" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="moudle_blog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FlyCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FlyCloud" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="moudle_blog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="FlyCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FlyCloud" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="moudle_blog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FlyCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FlyCloud" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="moudle_blog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FlyCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FlyCloud" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="moudle_uaa" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -308,7 +257,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550642374697" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550644035959" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -329,6 +278,72 @@
       <recent name="D:\springwork\FlyCloud\sql" />
       <recent name="D:\springwork\FlyCloud\moudle_log\src\main" />
     </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8762" />
+          <option name="urlPath" value="/user/fly" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1NTA4ODg1MzUsInVzZXJfbmFtZSI6ImZseSIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiIsIlJPTEVfQURNSU4iXSwianRpIjoiYTQ3MDcwZTQtMDYzZi00OWVjLTlmMTctMDEzODExNmQ0NjQxIiwiY2xpZW50X2lkIjoidWFhLXNlcnZpY2UiLCJzY29wZSI6WyJzZXJ2aWNlIl19.IX1wNyEBtTk0Fg9SCnPZ8NY0hUSt7Rnlz0vfZJYGsmNUNpCRtpRs2ODW1tmJMhEHAnyoOA2XS-ujv9NtgW69OwG4UXa9hLwuoH4rrsFA92WWioPZjfZDjm_s-cPPhSpVI4FHG50YgCfln6iIBIkwKnP7FkWzahVQv-ooC0LBtaT2PQhTYGfBNYiGfBvzn4a1WDs0wc1eqq6iHa7p8IQsAktC7-87u_dUk7XQPVkuNdYZQhJWyP6r7VWFkaHkB79rvE1UzSALyuUECBWNd57sIsULtxAVSb8-PbjoH-Gf_TpaMG2H4YeU1vfY4-9Bw0xGPRSwznF8dCgFZsfIk745TA" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8762" />
+          <option name="urlPath" value="/user/login" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="" />
+                <option name="value" value="" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="username" />
+                <option name="value" value="fly" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123456" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
@@ -554,17 +569,20 @@
       <updated>1550537387734</updated>
       <workItem from="1550537397258" duration="10085000" />
       <workItem from="1550547710961" duration="17308000" />
-      <workItem from="1550623265396" duration="9998000" />
+      <workItem from="1550623265396" duration="11665000" />
+      <workItem from="1550746968810" duration="623000" />
+      <workItem from="1550796643846" duration="2553000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37391000" />
+    <option name="totallyTimeSpent" value="42234000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49802372" visible="true" weight="0.21776505" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49802372" visible="true" weight="0.2234957" />
       <window_info id="Structure" order="1" sideWeight="0.5019763" side_tool="true" weight="0.28796563" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -572,7 +590,7 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.5019763" side_tool="true" weight="0.28796563" />
       <window_info id="Web" order="7" sideWeight="0.5019763" side_tool="true" weight="0.28796563" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" visible="true" weight="0.3342318" />
+      <window_info anchor="bottom" id="REST Client" weight="0.69541776" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32974428" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.38544473" />
@@ -581,14 +599,15 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.31897712" />
-      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.32884097" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.24528302" />
-      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32974428" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32884097" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
       <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="16" visible="true" weight="0.64285713" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -932,13 +951,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
-          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/moudle_blog/src/main/java/com/fly/blog/config/SwaggerConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -981,9 +993,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/moudle_uaa/src/main/resources/fzp-jwt.jks">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/moudle_uaa/src/main/resources/fzp-jwt.jks" />
     <entry file="file://$PROJECT_DIR$/moudle_uaa/src/main/resources/fly-jwt.jks">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -999,8 +1009,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/moudle_uaa/src/main/java/com/fly/uaa/config/OAuth2Config.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
+        <state relative-caret-position="291">
           <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
         </state>
       </provider>
     </entry>
