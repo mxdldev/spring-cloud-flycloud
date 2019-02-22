@@ -23,15 +23,15 @@ http://www.cnerlang.com/resource/182.html
 * 1.注册中心：moudle_eureka
 在这个系统中，所有的服务都向注册中心moudle_eureka进行服务注册。能方便的查看每个服务的服务状况、服务是否可用,以及每个服务都有哪些服务实例
 工作流程：
-![](https://img-blog.csdnimg.cn/20190222130826167.png)
+<br>![](https://img-blog.csdnimg.cn/20190222130826167.png)
 * 2.配置中心：moudle_config
 配置中心所有服务的配置文件由 config-server 管理，特别说明为了简单起见本框架中配置数据都放在本地并没有从git仓库远程获取
-机构图：
-![](https://img-blog.csdnimg.cn/20190222132525638.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dlZHVvXzgz,size_16,color_FFFFFF,t_70)
+架构图：
+<br>![](https://img-blog.csdnimg.cn/20190222132525638.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dlZHVvXzgz,size_16,color_FFFFFF,t_70)
 * 3.网关服务：moudle_gateway
 网关服务使用的是 Zuul 组件， Zuul 组件可以实现智能路由、负载均衡的功能 gateway-service 作为 个边界服务，对外统一暴露 API 接口，其他的服务 API 接口只提供给内部服务调用，不提供给外界直接调用，这就很方便实现统鉴权、安全验证的功能
 通过路由网关实现负载均衡：
-![](https://img-blog.csdnimg.cn/20190222134903810.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dlZHVvXzgz,size_16,color_FFFFFF,t_70)
+<br>![](https://img-blog.csdnimg.cn/20190222134903810.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dlZHVvXzgz,size_16,color_FFFFFF,t_70)
 * 4.链路追踪服务：moudle_zipkin
 它可以查看每个请求在微服务系统中的链路关系
 * 5.聚合监控服务：moudle_admin
@@ -41,11 +41,15 @@ http://www.cnerlang.com/resource/182.html
 * 7.认证授权服务：moudle_uaa
 Spring Cloud 0Auth2 由这个服务统一授权并返回Token。其他的应用服务例如moudle_user和moudle_blog作为资源服务 API 接口资源受保护的，需要验证Token并鉴后才能访问，我采用的0Auth2+JWT安全认证，需要生成私钥用于加密，公钥用于解密
 生成私钥命令：
+```
 keytool -genkeypair -alias fly-jwt -validity 36500 -keyalg RSA -dname "CN=jwt,OU=jwt,O=jwt,L=haidian,S=beijing,C=CH" -keypass fly123 -keystore fly-jwt.jks -storepass fly123
+```
 生成公钥命令：
+```
 keytool -list -rfc --keystore fly-jwt.jks | openssl x509 -inform pem -pubkey
+```
 JWT认证流程：
-![](https://img-blog.csdnimg.cn/20190222140807479.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dlZHVvXzgz,size_16,color_FFFFFF,t_70)
+<br>![](https://img-blog.csdnimg.cn/20190222140807479.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dlZHVvXzgz,size_16,color_FFFFFF,t_70)
 * 8.用户服务：moudle_user
 作为资源服务，对外暴露用户的API接口资源
 * 9.blog服务：moudle_blog
@@ -53,7 +57,7 @@ JWT认证流程：
 * 10.日志服务：moudle_log
 作为日志服务， moudle_user和moudle_blog服务通过RabbitMQ向moudle_log发送业务操作日志的消息，最后统一保存在数据库，由它统一持久化操作日志
 日志服务架构图：
-![](https://img-blog.csdnimg.cn/20190222142641298.png)
+<br>![](https://img-blog.csdnimg.cn/20190222142641298.png)
 ### 功能演示：
 依次启动 moudle_eureka, moudle_config,moudle_zipkin及其他的微服务，等整个微服务系统完全启动之后，在览器上访问 即：http://localhost:8761，即就是Eureka 可以查看服务注册的情况
 ![](https://img-blog.csdnimg.cn/20190222112508530.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dlZHVvXzgz,size_16,color_FFFFFF,t_70)
@@ -75,7 +79,8 @@ API 接口文档采用 Swagger2 框架生成在线文档， moudle_user 工程�
 在使用中有任何问题，请在下方留言，或加入Android、Java开发技术交流群
 QQ群：810970432
 email：geduo_83@163.com
-关于作者
+![](https://img-blog.csdnimg.cn/20190126213618911.png)
+### 关于作者
 ```
 var geduo_83 = {
     nickName  : "门心叼龙",
