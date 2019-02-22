@@ -61,9 +61,9 @@ JWT认证流程：
 ### 功能演示：
 依次启动 moudle_eureka, moudle_config,moudle_zipkin及其他的微服务，等整个微服务系统完全启动之后，在览器上访问 即：http://localhost:8761，即就是Eureka 可以查看服务注册的情况
 ![](https://img-blog.csdnimg.cn/20190222112508530.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dlZHVvXzgz,size_16,color_FFFFFF,t_70)
-API 接口文档采用 Swagger2 框架生成在线文档， moudle_user 工程和 moudle_blog工程集成了Swagger2 ，集成Swagger2 只需要引入依赖，并做相关的配置，然后在具体的 Controller上写注解，就可以实现 Swagger2的在线文档功能在浏览器输入http://localhost:8762/swagger-ui.html查看user服务的api文档
+API 接口文档采用 Swagger2 框架生成在线文档， moudle_user 工程和 moudle_blog工程集成了Swagger2 ，集成Swagger2 只需要引入依赖，并做相关的配置，然后在具体的 Controller上写注解，就可以实现 Swagger2的在线文档功能在浏览器输入http://localhost:8762/swagger-ui.html 查看user服务的api文档
 ![](https://img-blog.csdnimg.cn/20190222112530157.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dlZHVvXzgz,size_16,color_FFFFFF,t_70)
-在浏览器输入http://localhost:8763/swagger-ui.html查看blog服务的api文档 
+在浏览器输入http://localhost:8763/swagger-ui.html 查看blog服务的api文档 
 ![](https://img-blog.csdnimg.cn/20190222112530157.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dlZHVvXzgz,size_16,color_FFFFFF,t_70)
 ![](https://img-blog.csdnimg.cn/201902221125490.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dlZHVvXzgz,size_16,color_FFFFFF,t_70)
  在浏览器上访问 http://localhost :9998 展示了 admin-service 登录界面，admin-service 作为 个综合监控的服务，需要对访问者进行身份认证才能访问它的主页，登录用户名为 dmin 密码为 123456
