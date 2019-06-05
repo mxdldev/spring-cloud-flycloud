@@ -1,15 +1,3 @@
-# remote git
-#spring:
-#  cloud:
-#    config:
-#      server:
-#        git:
-#          uri: https://git.coding.net/xiaoantimes/xiaoantimes-taichi
-#          searchPaths: backend/repo
-#          username: 124746406@qq.com
-#          password:
-#      label: master
-
 # ---native
 spring:
   cloud:
