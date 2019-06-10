@@ -20,7 +20,7 @@ http://www.cnerlang.com/resource/182.html
 <br>完整的项目目录如下：
 <br>![](https://img-blog.csdnimg.cn/20190222112420472.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dlZHVvXzgz,size_16,color_FFFFFF,t_70)
 ### 工程架构图：
-<br>![](https://img-blog.csdnimg.cn/20190222112451518.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dlZHVvXzgz,size_16,color_FFFFFF,t_70)
+<br>![](https://img-blog.csdnimg.cn/20190610172301833.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9tZW54aW5kaWFvbG9uZy5ibG9nLmNzZG4ubmV0,size_16,color_FFFFFF,t_70)
 <br>下面对11个Moudle工程分别进行介绍:
 * 1.注册中心：module_eureka
 在这个系统中，所有的服务都向注册中心module_eureka进行服务注册。能方便的查看每个服务的服务状况、服务是否可用,以及每个服务都有哪些服务实例
