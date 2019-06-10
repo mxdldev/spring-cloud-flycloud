@@ -1,0 +1,22 @@
+# ---native
+spring:
+  cloud:
+    config:
+      server:
+        native:
+          search-locations: classpath:/shared
+  profiles:
+     active: native
+  application:
+    name: config-server
+
+# port
+server:
+  port: 8769
+
+management:
+  security:
+    enabled: false
+
+
+

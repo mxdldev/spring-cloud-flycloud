@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="com.fly.module_blog.main" target="1.8" />
+      <module name="com.fly.module_blog.test" target="1.8" />
+      <module name="com.fly.moudle_.main" target="1.8" />
+      <module name="com.fly.moudle_.test" target="1.8" />
+      <module name="com.fly.moudle_admin.main" target="1.8" />
+      <module name="com.fly.moudle_admin.test" target="1.8" />
+      <module name="com.fly.moudle_config.main" target="1.8" />
+      <module name="com.fly.moudle_config.test" target="1.8" />
+      <module name="com.fly.moudle_eureka.main" target="1.8" />
+      <module name="com.fly.moudle_eureka.test" target="1.8" />
+      <module name="com.fly.moudle_gateway.main" target="1.8" />
+      <module name="com.fly.moudle_gateway.test" target="1.8" />
+      <module name="com.fly.moudle_log.main" target="1.8" />
+      <module name="com.fly.moudle_log.test" target="1.8" />
+      <module name="com.fly.moudle_monitor.main" target="1.8" />
+      <module name="com.fly.moudle_monitor.test" target="1.8" />
+      <module name="com.fly.moudle_uaa.main" target="1.8" />
+      <module name="com.fly.moudle_uaa.test" target="1.8" />
+      <module name="com.fly.moudle_user.main" target="1.8" />
+      <module name="com.fly.moudle_user.test" target="1.8" />
+      <module name="com.fly.moudle_zipkin.main" target="1.8" />
+      <module name="com.fly.moudle_zipkin.test" target="1.8" />
+      <module name="moudle_user.com.fly.moudle_user.main" target="1.8" />
+      <module name="moudle_user.com.fly.moudle_user.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
