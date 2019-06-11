@@ -10,3 +10,5 @@ include 'module_uaa'
 include 'module_log'
 include 'module_user'
 include 'module_blog'
+include 'module_news'
+

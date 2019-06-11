@@ -17,6 +17,7 @@
             <option value="$PROJECT_DIR$/module_gateway" />
             <option value="$PROJECT_DIR$/module_log" />
             <option value="$PROJECT_DIR$/module_monitor" />
+            <option value="$PROJECT_DIR$/module_news" />
             <option value="$PROJECT_DIR$/module_uaa" />
             <option value="$PROJECT_DIR$/module_user" />
             <option value="$PROJECT_DIR$/module_zipkin" />

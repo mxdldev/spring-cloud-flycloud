@@ -29,4 +29,12 @@ public class RespDTO<T> implements Serializable{
                 ", data=" + data +
                 '}';
     }
+
+    public void setCode(int code) {
+        this.code = code;
+    }
+
+    public void setError(String error) {
+        this.error = error;
+    }
 }
