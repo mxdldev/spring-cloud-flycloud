@@ -12700,3 +12700,38 @@ Caused by: java.net.SocketTimeoutException: Read timed out
 2019-06-11 16:58:17.692  INFO 4060 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
 2019-06-11 16:59:07.671  INFO 4060 --- [http-nio-9998-exec-4] c.c.c.ConfigServicePropertySourceLocator : Fetching config from server at: http://localhost:8769
 2019-06-11 16:59:07.943  INFO 4060 --- [http-nio-9998-exec-4] c.c.c.ConfigServicePropertySourceLocator : Located environment: name=admin-service, profiles=[pro], label=null, version=null, state=null
+2019-06-11 16:59:17.691  INFO 4060 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-11 16:59:17.738  INFO 4060 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-11 16:59:17.739  INFO 4060 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-11 16:59:17.739  INFO 4060 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-11 17:00:17.692  INFO 4060 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-11 17:00:17.711  INFO 4060 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-11 17:00:17.711  INFO 4060 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-11 17:00:17.742  INFO 4060 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-11 17:01:17.693  INFO 4060 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-11 17:01:17.731  INFO 4060 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-11 17:01:17.732  INFO 4060 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-11 17:01:17.732  INFO 4060 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-11 17:02:17.693  INFO 4060 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-11 17:02:17.709  INFO 4060 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-11 17:02:17.758  INFO 4060 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-11 17:02:17.758  INFO 4060 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-11 17:02:18.949  INFO 4060 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2019-06-11 17:03:17.696  INFO 4060 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-11 17:03:17.771  INFO 4060 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-11 17:03:17.772  INFO 4060 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-11 17:03:17.772  INFO 4060 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-11 17:04:07.387  INFO 4060 --- [http-nio-9998-exec-9] c.c.c.ConfigServicePropertySourceLocator : Fetching config from server at: http://localhost:8769
+2019-06-11 17:04:09.265  INFO 4060 --- [http-nio-9998-exec-9] c.c.c.ConfigServicePropertySourceLocator : Located environment: name=admin-service, profiles=[pro], label=null, version=null, state=null
+2019-06-11 17:04:17.698  INFO 4060 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-11 17:04:17.769  INFO 4060 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-11 17:04:17.850  INFO 4060 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-11 17:04:17.850  INFO 4060 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-11 17:05:17.698  INFO 4060 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-11 17:05:17.698  INFO 4060 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-11 17:05:17.698  INFO 4060 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-11 17:05:17.699  INFO 4060 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-11 17:06:17.699  INFO 4060 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-11 17:06:17.699  INFO 4060 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-11 17:06:17.699  INFO 4060 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-11 17:06:17.699  INFO 4060 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0

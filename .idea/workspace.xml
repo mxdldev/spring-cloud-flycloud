@@ -288,7 +288,7 @@
         <entry file="file://$PROJECT_DIR$/sql/sys-blog.sql">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="213">
-              <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -509,7 +509,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560243642913" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560243895844" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/moudle_user" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -844,7 +844,7 @@
       <workItem from="1560151499991" duration="1873000" />
       <workItem from="1560153490664" duration="2560000" />
       <workItem from="1560156236895" duration="3081000" />
-      <workItem from="1560212510671" duration="24865000" />
+      <workItem from="1560212510671" duration="24973000" />
     </task>
     <task id="LOCAL-00001" summary="app update">
       <created>1559721472069</created>
@@ -857,7 +857,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93177000" />
+    <option name="totallyTimeSpent" value="93285000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -1316,7 +1316,7 @@
     <entry file="file://$PROJECT_DIR$/sql/sys-blog.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
-          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
         </state>
       </provider>
     </entry>

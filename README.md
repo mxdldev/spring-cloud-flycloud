@@ -18,9 +18,9 @@ http://www.erlang.org/downloads Erlang环境
 http://www.cnerlang.com/resource/182.html
 该项目没有采用Maven进行项目构建，Maven通过xml进行依赖管理，导致整个配置文件太过臃肿，另外灵活性也不是很强，所以我采用Gradle进行项目构建和依赖管理，在FlyTour项目中我们见证了Gradle的强大，通过简单的一些配置就可以轻松的实现组件化的功能。该项目共有11个Moudle工程。其中10个位微服务工程，这10个微服务工程构成了一个完整的微服务系统，微服务系统包含了8个基础服务，提供了一整套微服务治理功能，他们分别是配置中心module_config、注册中心module_eureka、认证授权中心module_uaa、Turbine聚合监控服务module_monitor、链路追踪服务module_zipken、聚合监控服务module_admin、路由网关服务module_gateway、日志服务module_log。另外还包含了两个资源服务：用户服务module_user和blog服务module_blog，另外还有一个common的Moudle,为资源服务提供一些一本的工具类。
 <br>完整的项目目录如下：
-<br>![](https://img-blog.csdnimg.cn/20190222112420472.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dlZHVvXzgz,size_16,color_FFFFFF,t_70)
+<br>![](https://img-blog.csdnimg.cn/20190610173005667.jpg)
 ### 工程架构图：
-<br>![](https://img-blog.csdnimg.cn/20190222112451518.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dlZHVvXzgz,size_16,color_FFFFFF,t_70)
+<br>![](https://img-blog.csdnimg.cn/2019061017280996.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9tZW54aW5kaWFvbG9uZy5ibG9nLmNzZG4ubmV0,size_16,color_FFFFFF,t_70)
 <br>下面对11个Moudle工程分别进行介绍:
 * 1.注册中心：module_eureka
 在这个系统中，所有的服务都向注册中心module_eureka进行服务注册。能方便的查看每个服务的服务状况、服务是否可用,以及每个服务都有哪些服务实例
