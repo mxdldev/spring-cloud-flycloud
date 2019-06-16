@@ -2409,3 +2409,7 @@ Caused by: java.net.ConnectException: Connection refused: connect
 2019-06-16 21:27:37.934  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
 2019-06-16 21:27:39.689  INFO 1316 --- [http-nio-9998-exec-5] c.c.c.ConfigServicePropertySourceLocator : Fetching config from server at: http://localhost:8769
 2019-06-16 21:27:40.295  INFO 1316 --- [http-nio-9998-exec-5] c.c.c.ConfigServicePropertySourceLocator : Located environment: name=admin-service, profiles=[pro], label=null, version=null, state=null
+2019-06-16 21:28:37.931  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:28:37.931  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:28:37.931  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:28:37.931  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
