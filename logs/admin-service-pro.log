@@ -2413,3 +2413,16 @@ Caused by: java.net.ConnectException: Connection refused: connect
 2019-06-16 21:28:37.931  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
 2019-06-16 21:28:37.931  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
 2019-06-16 21:28:37.931  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:29:37.931  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:29:37.931  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:29:37.931  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:29:37.931  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:29:38.892  INFO 1316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2019-06-16 21:30:37.931  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:30:37.931  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:30:37.932  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:30:37.932  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:31:37.932  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:31:37.932  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:31:37.932  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:31:37.936  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
