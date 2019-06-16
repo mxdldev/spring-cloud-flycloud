@@ -6,10 +6,10 @@ csdn地址：[https://blog.csdn.net/geduo_83/article/details/87866018](https://b
 在该框架中包括了用 Spring Cloud 构建微服务的一系列基本组件和框架，对于后台服务框架的搭建有很大的参考价值，大家可以参考甚至稍加修改可以直接应用于自己的实际的项目开发中。
 
 ### 更新日志：
-##### FlyCloud 2.0.0 2019-06-08
-业务组件module_news添加
+###### FlyCloud 2.0.0 2019-06-08
+* 业务组件module_news添加
 
-##### FlyCloud 1.0.0 2019-02-28
+###### FlyCloud 1.0.0 2019-02-28
 初始版本：
 * 1.配置组件：注册中心、配置中心、授权中心
 * 2.监控组件：聚合监控、熔断监控、路由监控
@@ -28,8 +28,6 @@ http://www.rabbitmq.com/download.html
 http://www.erlang.org/downloads Erlang环境
 http://www.cnerlang.com/resource/182.html
 该项目没有采用Maven进行项目构建，Maven通过xml进行依赖管理，导致整个配置文件太过臃肿，另外灵活性也不是很强，所以我采用Gradle进行项目构建和依赖管理，在FlyTour项目中我们见证了Gradle的强大，通过简单的一些配置就可以轻松的实现组件化的功能。该项目共有11个Moudle工程。其中10个位微服务工程，这10个微服务工程构成了一个完整的微服务系统，微服务系统包含了8个基础服务，提供了一整套微服务治理功能，他们分别是配置中心module_config、注册中心module_eureka、认证授权中心module_uaa、Turbine聚合监控服务module_monitor、链路追踪服务module_zipken、聚合监控服务module_admin、路由网关服务module_gateway、日志服务module_log。另外还包含了两个资源服务：用户服务module_user和blog服务module_blog，另外还有一个common的Moudle,为资源服务提供一些一本的工具类。
-<br>完整的项目目录如下：
-<br>![](https://img-blog.csdnimg.cn/20190610173005667.jpg)
 ### 工程架构图：
 <br>![](https://img-blog.csdnimg.cn/2019061017280996.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9tZW54aW5kaWFvbG9uZy5ibG9nLmNzZG4ubmV0,size_16,color_FFFFFF,t_70)
 <br>下面对11个Moudle工程分别进行介绍:
