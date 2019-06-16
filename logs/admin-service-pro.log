@@ -2426,3 +2426,13 @@ Caused by: java.net.ConnectException: Connection refused: connect
 2019-06-16 21:31:37.932  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
 2019-06-16 21:31:37.932  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
 2019-06-16 21:31:37.936  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:32:37.932  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:32:37.932  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:32:37.932  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:32:37.932  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:32:59.695  INFO 1316 --- [http-nio-9998-exec-1] c.c.c.ConfigServicePropertySourceLocator : Fetching config from server at: http://localhost:8769
+2019-06-16 21:33:00.294  INFO 1316 --- [http-nio-9998-exec-1] c.c.c.ConfigServicePropertySourceLocator : Located environment: name=admin-service, profiles=[pro], label=null, version=null, state=null
+2019-06-16 21:33:37.933  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:33:37.943  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:33:37.944  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:33:37.944  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
