@@ -41,7 +41,34 @@
     </loaded-modules>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9f366cc-d6b3-4967-a989-a813e7df54f9" name="Default Changelist" comment="" />
+    <list default="true" id="f9f366cc-d6b3-4967-a989-a813e7df54f9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-02-22T101452.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-02-22T102141.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-02-22T102226.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-02-22T102832.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/com.fly.moudle_user.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/module_blog/com.fly.module_blog.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/module_blog/com.fly.module_blog.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/moudle_user/com.fly.moudle_user.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/moudle_user/com.fly.moudle_user.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/admin-service-pro.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_blog/out/production/classes/com/fly/blog/config/SwaggerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/module_blog/out/production/classes/com/fly/blog/config/SwaggerConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_news/out/production/classes/com/fly/news/config/SwaggerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/module_news/out/production/classes/com/fly/news/config/SwaggerConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_user/out/production/classes/com/fly/user/config/SwaggerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/module_user/out/production/classes/com/fly/user/config/SwaggerConfig.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -179,7 +206,7 @@
     <favorites_list name="FlyCloud" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -198,6 +225,7 @@
       <find>fzp-jwt</find>
       <find>moudle_</find>
       <find>8767</find>
+      <find>com.fly.module_</find>
     </findStrings>
     <replaceStrings>
       <replace>fly</replace>
@@ -210,9 +238,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/moudle_user/src/main/java/com/fly/user/service/LoggerService.java" />
-        <option value="$PROJECT_DIR$/moudle_user/src/main/java/com/fly/user/service/UserService.java" />
-        <option value="$PROJECT_DIR$/moudle_user/src/main/java/com/fly/user/util/BPwdEncoderUtils.java" />
         <option value="$PROJECT_DIR$/moudle_user/src/main/java/com/fly/user/util/HttpUtils.java" />
         <option value="$PROJECT_DIR$/moudle_user/src/main/java/com/fly/user/util/UserUtils.java" />
         <option value="$PROJECT_DIR$/moudle_user/src/main/java/com/fly/user/web/UserController.java" />
@@ -261,6 +286,9 @@
         <option value="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/web/NewsTypeController.java" />
         <option value="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/service/NewsDetailService.java" />
         <option value="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/web/NewsDetailController.java" />
+        <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -273,8 +301,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="120" />
     <option name="y" value="70" />
-    <option name="width" value="1237" />
-    <option name="height" value="777" />
+    <option name="width" value="1240" />
+    <option name="height" value="780" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -282,24 +310,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="FlyCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FlyCloud" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="FlyCloud-2.0.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlyCloud-2.0.0" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="FlyCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FlyCloud" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="sql" type="462c0819:PsiDirectoryNode" />
+              <item name="FlyCloud-2.0.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlyCloud-2.0.0" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FlyCloud-2.0.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlyCloud-2.0.0" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -311,8 +344,9 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560248758533" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/moudle_user" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560649887082" />
+    <property name="dynamic.classpath" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -418,104 +452,9 @@
         </RuleState>
       </list>
     </option>
-    <option name="contentProportion" value="0.22807017" />
+    <option name="contentProportion" value="0.52360517" />
   </component>
   <component name="RunManager" selected="Spring Boot.EurekaServerApplication">
-    <configuration name="FlyCloud [bootRepackage]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="bootRepackage" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="FlyCloud [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--scan" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="bootRun" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="FlyCloud [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="clean" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="FlyCloud [init]" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="init" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="FlyCloud:moudle_user [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/moudle_user" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="clean" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
     <configuration name="AdminServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="com.fly.module_admin.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fly.admin.AdminServiceApplication" />
@@ -524,7 +463,7 @@
       </method>
     </configuration>
     <configuration name="BlogServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="module_blog.com.fly.module_blog.main" />
+      <module name="com.fly.module_blog.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fly.blog.BlogServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -594,11 +533,6 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Gradle.FlyCloud [init]" />
-      <item itemvalue="Gradle.FlyCloud [clean]" />
-      <item itemvalue="Gradle.FlyCloud [bootRepackage]" />
-      <item itemvalue="Gradle.FlyCloud [bootRun]" />
-      <item itemvalue="Gradle.FlyCloud:moudle_user [clean]" />
       <item itemvalue="Spring Boot.AdminServiceApplication" />
       <item itemvalue="Spring Boot.ConfigServerApplication" />
       <item itemvalue="Spring Boot.EurekaServerApplication" />
@@ -611,14 +545,6 @@
       <item itemvalue="Spring Boot.ZipkinServiceApplication" />
       <item itemvalue="Spring Boot.NewsServiceApplication" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Gradle.FlyCloud [bootRun]" />
-        <item itemvalue="Gradle.FlyCloud [clean]" />
-        <item itemvalue="Gradle.FlyCloud:moudle_user [clean]" />
-        <item itemvalue="Gradle.FlyCloud [bootRepackage]" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -648,6 +574,9 @@
       <workItem from="1560156236895" duration="3081000" />
       <workItem from="1560212510671" duration="24973000" />
       <workItem from="1560246664019" duration="1441000" />
+      <workItem from="1560646043205" duration="1505000" />
+      <workItem from="1560647612431" duration="1103000" />
+      <workItem from="1560648826960" duration="1457000" />
     </task>
     <task id="LOCAL-00001" summary="app update">
       <created>1559721472069</created>
@@ -660,12 +589,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94726000" />
+    <option name="totallyTimeSpent" value="98791000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973046" visible="true" weight="0.37034383" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973046" visible="true" weight="0.25871313" />
       <window_info id="Structure" order="1" sideWeight="0.50269544" side_tool="true" weight="0.36461318" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -684,12 +613,12 @@
       <window_info anchor="bottom" id="Spring" order="8" weight="0.32884097" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.29245284" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.20040214" side_tool="true" visible="true" weight="0.41926345" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.2917847" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32884097" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
       <window_info anchor="bottom" id="Version Control" order="15" weight="0.34770888" />
-      <window_info anchor="bottom" id="Run Dashboard" order="16" weight="0.65768194" />
+      <window_info anchor="bottom" id="Run Dashboard" order="16" sideWeight="0.79959786" visible="true" weight="0.41926345" />
       <window_info anchor="bottom" id="REST Client" order="17" weight="0.69541776" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -755,88 +684,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/module_news/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_config/src/main/resources/shared/admin-service-pro.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_config/src/main/resources/shared/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_config/src/main/resources/shared/user-service-pro.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_config/src/main/resources/shared/blog-service-pro.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_config/src/main/java/com/fly/config/ConfigServerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_config/src/main/resources/shared/logger-service-pro.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_config/src/main/resources/shared/monitor-service-pro.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_config/src/main/resources/shared/gateway-service-pro.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_blog/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_blog/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-278" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_blog/src/main/java/com/fly/blog/config/GlobalMethodSecurityConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_blog/src/main/java/com/fly/blog/config/JwtConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-22">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_blog/src/main/java/com/fly/blog/config/RabbitConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_blog/src/main/java/com/fly/blog/config/ResourceServerConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_blog/src/main/java/com/fly/blog/dto/BlogDetailDTO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/module_blog/src/main/java/com/fly/blog/util/HttpUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1522">
@@ -885,13 +732,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_config/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -979,13 +819,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.11.8.RELEASE/50f212b50c938a11ab6bc6e4b092357bacbc0502/spring-data-jpa-1.11.8.RELEASE-sources.jar!/org/springframework/data/jpa/repository/JpaRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-950">
-          <caret line="43" column="22" lean-forward="true" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.11.8.RELEASE/50f212b50c938a11ab6bc6e4b092357bacbc0502/spring-data-jpa-1.11.8.RELEASE-sources.jar!/org/springframework/data/jpa/repository/JpaRepository.java" />
     <entry file="file://$PROJECT_DIR$/module_news/src/main/java/com/fly/news/dao/NewsTypeDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
@@ -1120,6 +954,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules/com.fly.moudle_user.iml" />
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml" />
+    <entry file="file://$PROJECT_DIR$/module_config/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/gradle.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/httpRequests/2019-02-22T102226.200.json" />
+    <entry file="file://$PROJECT_DIR$/.idea/httpRequests/2019-02-22T101452.200.json" />
+    <entry file="file://$PROJECT_DIR$/.idea/httpRequests/2019-02-22T102832.200.json" />
+    <entry file="file://$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" />
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="28" column="10" lean-forward="true" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/admin-service-pro.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3750" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="344" column="25" lean-forward="true" selection-start-line="344" selection-start-column="25" selection-end-line="344" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -1177,7 +1076,6 @@
             <option name="proportions">
               <list>
                 <option value="0.6218391" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

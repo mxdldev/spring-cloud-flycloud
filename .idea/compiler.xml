@@ -2,8 +2,6 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="com.fly.module_blog.main" target="1.8" />
-      <module name="com.fly.module_blog.test" target="1.8" />
       <module name="com.fly.moudle_.main" target="1.8" />
       <module name="com.fly.moudle_.test" target="1.8" />
       <module name="com.fly.moudle_admin.main" target="1.8" />
