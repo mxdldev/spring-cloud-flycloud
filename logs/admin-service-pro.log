@@ -1948,3 +1948,464 @@ Just added and starting handler tuple: StaticListener_For_Aggregator
 2019-06-16 20:05:37.892  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
 2019-06-16 20:05:37.893  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
 2019-06-16 20:05:37.896  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:06:37.893  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:06:37.893  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:06:37.893  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:06:37.893  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:07:37.893  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:07:37.894  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:07:37.894  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:07:37.894  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:08:37.894  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:08:37.903  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:08:37.903  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:08:37.903  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:09:37.895  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:09:37.898  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:09:37.898  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:09:37.898  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:09:38.817  INFO 1316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2019-06-16 20:09:59.010  INFO 1316 --- [http-nio-9998-exec-2] c.c.c.ConfigServicePropertySourceLocator : Fetching config from server at: http://localhost:8769
+2019-06-16 20:09:59.666  INFO 1316 --- [http-nio-9998-exec-2] c.c.c.ConfigServicePropertySourceLocator : Located environment: name=admin-service, profiles=[pro], label=null, version=null, state=null
+2019-06-16 20:10:37.895  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:10:37.895  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:10:37.895  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:10:37.895  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:11:37.896  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:11:37.896  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:11:37.896  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:11:37.896  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:12:37.896  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:12:37.904  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:12:37.905  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:12:37.905  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:13:37.897  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:13:37.897  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:13:37.897  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:13:37.901  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:14:37.897  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:14:37.897  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:14:37.897  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:14:37.897  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:14:38.820  INFO 1316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2019-06-16 20:14:59.009  INFO 1316 --- [http-nio-9998-exec-7] c.c.c.ConfigServicePropertySourceLocator : Fetching config from server at: http://localhost:8769
+2019-06-16 20:14:59.703  INFO 1316 --- [http-nio-9998-exec-7] c.c.c.ConfigServicePropertySourceLocator : Located environment: name=admin-service, profiles=[pro], label=null, version=null, state=null
+2019-06-16 20:15:37.898  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:15:37.898  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:15:37.899  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:15:37.899  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:16:37.898  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:16:37.906  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:16:37.906  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:16:37.906  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:16:44.273  INFO 1316 --- [DiscoveryClient-CacheRefreshExecutor-0] d.c.b.a.registry.ApplicationRegistry     : New Application Application [id=15ef9808, name=USER-SERVICE, managementUrl=http://LAPTOP-BTKIHH20:8762/, healthUrl=http://LAPTOP-BTKIHH20:8762/health, serviceUrl=http://LAPTOP-BTKIHH20:8762/] registered 
+2019-06-16 20:16:44.291  INFO 1316 --- [DiscoveryClient-CacheRefreshExecutor-0] d.c.b.a.registry.ApplicationRegistry     : New Application Application [id=fbea0096, name=GATEWAY-SERVICE, managementUrl=http://LAPTOP-BTKIHH20:5000/, healthUrl=http://LAPTOP-BTKIHH20:5000/health, serviceUrl=http://LAPTOP-BTKIHH20:5000/] registered 
+2019-06-16 20:16:59.017  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/fbea0096/health/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.018  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/fbea0096/env/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.018  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/fbea0096/metrics/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.018  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/fbea0096/dump/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.019  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/fbea0096/jolokia/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.019  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/fbea0096/info/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.019  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/fbea0096/configprops/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.019  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/fbea0096/trace/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.020  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/fbea0096/logfile/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.020  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/fbea0096/refresh/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.020  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/fbea0096/flyway/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.020  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/fbea0096/liquibase/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.020  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/fbea0096/heapdump/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.020  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/fbea0096/loggers/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.020  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/fbea0096/auditevents/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.020  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/fbea0096/hystrix.stream/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.021  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/fbea0096/activiti/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.021  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/15ef9808/health/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.021  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/15ef9808/env/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.021  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/15ef9808/metrics/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.021  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/15ef9808/dump/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.022  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/15ef9808/jolokia/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.022  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/15ef9808/info/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.022  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/15ef9808/configprops/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.022  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/15ef9808/trace/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.023  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/15ef9808/logfile/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.023  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/15ef9808/refresh/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.023  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/15ef9808/flyway/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.023  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/15ef9808/liquibase/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.023  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/15ef9808/heapdump/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.023  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/15ef9808/loggers/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.023  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/15ef9808/auditevents/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.023  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/15ef9808/hystrix.stream/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:16:59.023  INFO 1316 --- [http-nio-9998-exec-3] o.s.c.n.zuul.web.ZuulHandlerMapping      : Mapped URL path [/api/applications/15ef9808/activiti/**] onto handler of type [class org.springframework.cloud.netflix.zuul.web.ZuulController]
+2019-06-16 20:17:37.898  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:17:37.898  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:17:37.902  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:17:37.902  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:18:37.899  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:18:37.902  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:18:37.902  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:18:37.902  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:19:37.900  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:19:37.900  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:19:37.900  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:19:37.904  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:19:38.821  INFO 1316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2019-06-16 20:19:59.023  INFO 1316 --- [http-nio-9998-exec-2] c.c.c.ConfigServicePropertySourceLocator : Fetching config from server at: http://localhost:8769
+2019-06-16 20:19:59.661  INFO 1316 --- [http-nio-9998-exec-2] c.c.c.ConfigServicePropertySourceLocator : Located environment: name=admin-service, profiles=[pro], label=null, version=null, state=null
+2019-06-16 20:20:37.901  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:20:37.901  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:20:37.901  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:20:37.901  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:21:37.902  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:21:37.903  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:21:37.903  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:21:37.903  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:22:37.902  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:22:37.902  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:22:37.902  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:22:37.902  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:23:37.902  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:23:37.902  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:23:37.902  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:23:37.903  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:24:37.902  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:24:37.902  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:24:37.907  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:24:37.907  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:24:38.832  INFO 1316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2019-06-16 20:25:19.021  INFO 1316 --- [http-nio-9998-exec-8] c.c.c.ConfigServicePropertySourceLocator : Fetching config from server at: http://localhost:8769
+2019-06-16 20:25:19.670  INFO 1316 --- [http-nio-9998-exec-8] c.c.c.ConfigServicePropertySourceLocator : Located environment: name=admin-service, profiles=[pro], label=null, version=null, state=null
+2019-06-16 20:25:37.902  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:25:37.902  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:25:37.902  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:25:37.903  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:26:37.902  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:26:37.902  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:26:37.902  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:26:37.902  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:27:37.902  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:27:37.902  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:27:37.902  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:27:37.903  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:28:37.903  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:28:37.903  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:28:37.906  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:28:37.906  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:29:37.904  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:29:37.905  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:29:37.905  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:29:37.905  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:29:38.837  INFO 1316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2019-06-16 20:30:19.043  INFO 1316 --- [http-nio-9998-exec-3] c.c.c.ConfigServicePropertySourceLocator : Fetching config from server at: http://localhost:8769
+2019-06-16 20:30:19.703  INFO 1316 --- [http-nio-9998-exec-3] c.c.c.ConfigServicePropertySourceLocator : Located environment: name=admin-service, profiles=[pro], label=null, version=null, state=null
+2019-06-16 20:30:37.905  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:30:37.905  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:30:37.905  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:30:37.905  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:31:37.909  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:31:37.910  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:31:37.910  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:31:37.910  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:32:37.905  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:32:37.908  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:32:37.908  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:32:37.908  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:33:37.905  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:33:37.905  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:33:37.905  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:33:37.905  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:34:37.906  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:34:37.906  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:34:37.910  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:34:37.910  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:34:38.854  INFO 1316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2019-06-16 20:35:37.906  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:35:37.914  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:35:37.914  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:35:37.914  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:35:39.025  INFO 1316 --- [http-nio-9998-exec-9] c.c.c.ConfigServicePropertySourceLocator : Fetching config from server at: http://localhost:8769
+2019-06-16 20:35:39.655  INFO 1316 --- [http-nio-9998-exec-9] c.c.c.ConfigServicePropertySourceLocator : Located environment: name=admin-service, profiles=[pro], label=null, version=null, state=null
+2019-06-16 20:36:37.906  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:36:37.907  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:36:37.908  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:36:37.908  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:37:37.907  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:37:37.907  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:37:37.907  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:37:37.907  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:38:37.907  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:38:37.914  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:38:37.914  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:38:37.914  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:39:37.908  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:39:37.917  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:39:37.918  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:39:37.918  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:39:38.857  INFO 1316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2019-06-16 20:40:37.908  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:40:37.910  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:40:37.910  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:40:37.910  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:40:59.020  INFO 1316 --- [http-nio-9998-exec-5] c.c.c.ConfigServicePropertySourceLocator : Fetching config from server at: http://localhost:8769
+2019-06-16 20:40:59.673  INFO 1316 --- [http-nio-9998-exec-5] c.c.c.ConfigServicePropertySourceLocator : Located environment: name=admin-service, profiles=[pro], label=null, version=null, state=null
+2019-06-16 20:41:37.909  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:41:37.916  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:41:37.916  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:41:37.916  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:42:37.910  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:42:37.910  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:42:37.910  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:42:37.910  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:42:43.120  INFO 1316 --- [updateTask1] d.c.boot.admin.registry.StatusUpdater    : Couldn't retrieve status for Application [id=15ef9808, name=USER-SERVICE, managementUrl=http://LAPTOP-BTKIHH20:8762/, healthUrl=http://LAPTOP-BTKIHH20:8762/health, serviceUrl=http://LAPTOP-BTKIHH20:8762/]
+
+org.springframework.web.client.ResourceAccessException: I/O error on GET request for "http://LAPTOP-BTKIHH20:8762/health": Connect to LAPTOP-BTKIHH20:8762 [LAPTOP-BTKIHH20/192.168.31.105, LAPTOP-BTKIHH20/fe80:0:0:0:3cae:f2cd:bf43:f669%13, LAPTOP-BTKIHH20/fe80:0:0:0:18a2:b525:20b7:bd2c%14, LAPTOP-BTKIHH20/2001:0:53aa:64c:18a2:b525:20b7:bd2c] failed: Connection refused: connect; nested exception is org.apache.http.conn.HttpHostConnectException: Connect to LAPTOP-BTKIHH20:8762 [LAPTOP-BTKIHH20/192.168.31.105, LAPTOP-BTKIHH20/fe80:0:0:0:3cae:f2cd:bf43:f669%13, LAPTOP-BTKIHH20/fe80:0:0:0:18a2:b525:20b7:bd2c%14, LAPTOP-BTKIHH20/2001:0:53aa:64c:18a2:b525:20b7:bd2c] failed: Connection refused: connect
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:666)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:628)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:549)
+	at de.codecentric.boot.admin.web.client.ApplicationOperations.doGet(ApplicationOperations.java:68)
+	at de.codecentric.boot.admin.web.client.ApplicationOperations.getHealth(ApplicationOperations.java:58)
+	at de.codecentric.boot.admin.registry.StatusUpdater.queryStatus(StatusUpdater.java:111)
+	at de.codecentric.boot.admin.registry.StatusUpdater.updateStatus(StatusUpdater.java:65)
+	at de.codecentric.boot.admin.registry.StatusUpdater.updateStatusForAllApplications(StatusUpdater.java:58)
+	at de.codecentric.boot.admin.registry.StatusUpdateApplicationListener$2.run(StatusUpdateApplicationListener.java:60)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.http.conn.HttpHostConnectException: Connect to LAPTOP-BTKIHH20:8762 [LAPTOP-BTKIHH20/192.168.31.105, LAPTOP-BTKIHH20/fe80:0:0:0:3cae:f2cd:bf43:f669%13, LAPTOP-BTKIHH20/fe80:0:0:0:18a2:b525:20b7:bd2c%14, LAPTOP-BTKIHH20/2001:0:53aa:64c:18a2:b525:20b7:bd2c] failed: Connection refused: connect
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:159)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:359)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:381)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:237)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:111)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:56)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:89)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:53)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:652)
+	... 16 common frames omitted
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	... 29 common frames omitted
+
+2019-06-16 20:43:37.910  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:43:37.910  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:43:37.910  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:43:37.913  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:44:37.911  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:44:37.920  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:44:37.921  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:44:37.921  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:44:38.863  INFO 1316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2019-06-16 20:45:37.911  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:45:37.912  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:45:37.912  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:45:37.920  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:45:59.032  INFO 1316 --- [http-nio-9998-exec-10] c.c.c.ConfigServicePropertySourceLocator : Fetching config from server at: http://localhost:8769
+2019-06-16 20:45:59.687  INFO 1316 --- [http-nio-9998-exec-10] c.c.c.ConfigServicePropertySourceLocator : Located environment: name=admin-service, profiles=[pro], label=null, version=null, state=null
+2019-06-16 20:46:37.911  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:46:37.911  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:46:37.914  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:46:37.915  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:47:37.911  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:47:37.911  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:47:37.911  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:47:37.911  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:48:37.912  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:48:37.912  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:48:37.913  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:48:37.913  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:49:37.912  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:49:37.912  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:49:37.912  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:49:37.912  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:49:38.866  INFO 1316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2019-06-16 20:50:37.913  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:50:37.916  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:50:37.917  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:50:37.917  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:51:19.019  INFO 1316 --- [http-nio-9998-exec-6] c.c.c.ConfigServicePropertySourceLocator : Fetching config from server at: http://localhost:8769
+2019-06-16 20:51:19.668  INFO 1316 --- [http-nio-9998-exec-6] c.c.c.ConfigServicePropertySourceLocator : Located environment: name=admin-service, profiles=[pro], label=null, version=null, state=null
+2019-06-16 20:51:37.913  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:51:37.914  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:51:37.914  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:51:37.914  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:52:37.913  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:52:37.913  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:52:37.913  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:52:37.913  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:53:37.913  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:53:37.913  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:53:37.913  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:53:37.913  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:54:37.913  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:54:37.913  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:54:37.913  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:54:37.921  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:54:38.871  INFO 1316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2019-06-16 20:55:37.914  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:55:37.918  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:55:37.918  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:55:37.918  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:56:37.914  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:56:37.914  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:56:37.914  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:56:37.914  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:56:39.032  INFO 1316 --- [http-nio-9998-exec-2] c.c.c.ConfigServicePropertySourceLocator : Fetching config from server at: http://localhost:8769
+2019-06-16 20:56:39.666  INFO 1316 --- [http-nio-9998-exec-2] c.c.c.ConfigServicePropertySourceLocator : Located environment: name=admin-service, profiles=[pro], label=null, version=null, state=null
+2019-06-16 20:57:37.915  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:57:37.915  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:57:37.915  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:57:37.915  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:58:37.916  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:58:37.920  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:58:37.921  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:58:37.921  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:59:37.916  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 20:59:37.920  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 20:59:37.920  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 20:59:37.920  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 20:59:38.873  INFO 1316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2019-06-16 21:00:37.917  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:00:37.917  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:00:37.917  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:00:37.917  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:01:37.918  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:01:37.918  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:01:37.919  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:01:37.919  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:01:59.692  INFO 1316 --- [http-nio-9998-exec-8] c.c.c.ConfigServicePropertySourceLocator : Fetching config from server at: http://localhost:8769
+2019-06-16 21:02:00.279  INFO 1316 --- [http-nio-9998-exec-8] c.c.c.ConfigServicePropertySourceLocator : Located environment: name=admin-service, profiles=[pro], label=null, version=null, state=null
+2019-06-16 21:02:37.918  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:02:37.918  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:02:37.918  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:02:37.919  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:03:37.918  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:03:37.922  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:03:37.922  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:03:37.922  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:04:37.918  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:04:37.918  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:04:37.918  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:04:37.918  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:04:38.875  INFO 1316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2019-06-16 21:05:37.919  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:05:37.919  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:05:37.919  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:05:37.920  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:06:37.920  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:06:37.920  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:06:37.920  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:06:37.920  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:07:19.020  INFO 1316 --- [http-nio-9998-exec-4] c.c.c.ConfigServicePropertySourceLocator : Fetching config from server at: http://localhost:8769
+2019-06-16 21:07:19.634  INFO 1316 --- [http-nio-9998-exec-4] c.c.c.ConfigServicePropertySourceLocator : Located environment: name=admin-service, profiles=[pro], label=null, version=null, state=null
+2019-06-16 21:07:37.920  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:07:37.920  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:07:37.920  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:07:37.920  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:08:37.921  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:08:37.921  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:08:37.922  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:08:37.922  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:09:37.921  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:09:37.921  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:09:37.921  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:09:37.921  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:09:38.887  INFO 1316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2019-06-16 21:10:37.921  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:10:37.921  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:10:37.921  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:10:37.921  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:11:37.922  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:11:37.922  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:11:37.922  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:11:37.922  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:12:19.022  INFO 1316 --- [http-nio-9998-exec-9] c.c.c.ConfigServicePropertySourceLocator : Fetching config from server at: http://localhost:8769
+2019-06-16 21:12:19.611  INFO 1316 --- [http-nio-9998-exec-9] c.c.c.ConfigServicePropertySourceLocator : Located environment: name=admin-service, profiles=[pro], label=null, version=null, state=null
+2019-06-16 21:12:37.923  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:12:37.932  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:12:37.932  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:12:37.932  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:13:37.923  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:13:37.923  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:13:37.923  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:13:37.931  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:14:37.924  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:14:37.924  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:14:37.925  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:14:37.933  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:14:38.888  INFO 1316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2019-06-16 21:15:37.925  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:15:37.925  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:15:37.925  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:15:37.925  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:16:37.925  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:16:37.925  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:16:37.933  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:16:37.933  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:17:19.674  INFO 1316 --- [http-nio-9998-exec-4] c.c.c.ConfigServicePropertySourceLocator : Fetching config from server at: http://localhost:8769
+2019-06-16 21:17:20.262  INFO 1316 --- [http-nio-9998-exec-4] c.c.c.ConfigServicePropertySourceLocator : Located environment: name=admin-service, profiles=[pro], label=null, version=null, state=null
+2019-06-16 21:17:37.925  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:17:37.925  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:17:37.925  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:17:37.925  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:18:37.926  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:18:37.926  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:18:37.926  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:18:37.926  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:19:37.926  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:19:37.926  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:19:37.934  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:19:37.934  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:19:38.889  INFO 1316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2019-06-16 21:20:37.927  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:20:37.935  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:20:37.935  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:20:37.935  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:21:37.927  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:21:37.935  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:21:37.935  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:21:37.935  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:22:19.674  INFO 1316 --- [http-nio-9998-exec-9] c.c.c.ConfigServicePropertySourceLocator : Fetching config from server at: http://localhost:8769
+2019-06-16 21:22:20.265  INFO 1316 --- [http-nio-9998-exec-9] c.c.c.ConfigServicePropertySourceLocator : Located environment: name=admin-service, profiles=[pro], label=null, version=null, state=null
+2019-06-16 21:22:37.927  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:22:37.928  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:22:37.928  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:22:37.929  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:23:37.927  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:23:37.927  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:23:37.928  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:23:37.928  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:24:37.928  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:24:37.928  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:24:37.937  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:24:37.938  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:24:38.891  INFO 1316 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2019-06-16 21:25:37.929  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:25:37.930  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:25:37.930  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:25:37.930  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:26:37.930  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:26:37.930  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:26:37.930  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:26:37.930  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:27:37.930  INFO 1316 --- [Timer-0] o.s.c.n.t.CommonsInstanceDiscovery       : No apps configured, returning an empty instance list
+2019-06-16 21:27:37.930  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Retrieved hosts from InstanceDiscovery: 0
+2019-06-16 21:27:37.931  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Found hosts that have been previously terminated: 0
+2019-06-16 21:27:37.934  INFO 1316 --- [Timer-0] c.n.t.discovery.InstanceObservable       : Hosts up:0, hosts down: 0
+2019-06-16 21:27:39.689  INFO 1316 --- [http-nio-9998-exec-5] c.c.c.ConfigServicePropertySourceLocator : Fetching config from server at: http://localhost:8769
+2019-06-16 21:27:40.295  INFO 1316 --- [http-nio-9998-exec-5] c.c.c.ConfigServicePropertySourceLocator : Located environment: name=admin-service, profiles=[pro], label=null, version=null, state=null
