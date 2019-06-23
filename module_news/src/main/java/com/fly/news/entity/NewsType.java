@@ -1,5 +1,6 @@
 package com.fly.news.entity;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
 import org.springframework.data.annotation.CreatedDate;
 
 import javax.persistence.*;
@@ -31,7 +32,8 @@ public class NewsType implements Serializable {
      * 创建时间
      */
     @CreatedDate
-    @Column(name = "addtime", updatable = false, nullable = false)
+    @JsonFormat(locale="zh", timezone="GMT+8", pattern="yyyy-MM-dd HH:mm:ss")
+    @Column(name = "addtime", updatable = false, nullable = true)
     private Date addtime;
 
     public Long getId() {

@@ -42,32 +42,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9f366cc-d6b3-4967-a989-a813e7df54f9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-02-22T101452.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-02-22T102141.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-02-22T102226.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-02-22T102832.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/com.fly.moudle_user.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/module_blog/com.fly.module_blog.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/module_blog/com.fly.module_blog.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/moudle_user/com.fly.moudle_user.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/moudle_user/com.fly.moudle_user.test.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/sys-news_news_detail.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/sys-news_news_type.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/sys-news_routines.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/admin-service-pro.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_blog/out/production/classes/com/fly/blog/config/SwaggerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/module_blog/out/production/classes/com/fly/blog/config/SwaggerConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_news/out/production/classes/com/fly/news/config/SwaggerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/module_news/out/production/classes/com/fly/news/config/SwaggerConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_user/out/production/classes/com/fly/user/config/SwaggerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/module_user/out/production/classes/com/fly/user/config/SwaggerConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/admin-service-pro.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/admin-service-pro.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_news/out/production/classes/META-INF/com.fly.module_news.main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_news/out/production/classes/com/fly/news/entity/NewsType.class" beforeDir="false" afterPath="$PROJECT_DIR$/module_news/out/production/classes/com/fly/news/entity/NewsType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_news/out/production/classes/com/fly/news/service/NewsDetailService.class" beforeDir="false" afterPath="$PROJECT_DIR$/module_news/out/production/classes/com/fly/news/service/NewsDetailService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_news/out/production/classes/com/fly/news/web/NewsDetailController.class" beforeDir="false" afterPath="$PROJECT_DIR$/module_news/out/production/classes/com/fly/news/web/NewsDetailController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_news/out/production/classes/com/fly/news/web/NewsTypeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/module_news/out/production/classes/com/fly/news/web/NewsTypeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/entity/NewsDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/entity/NewsDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/entity/NewsType.java" beforeDir="false" afterPath="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/entity/NewsType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/service/NewsDetailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/service/NewsDetailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/web/NewsDetailController.java" beforeDir="false" afterPath="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/web/NewsDetailController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_user/out/production/classes/com/fly/user/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/module_user/out/production/classes/com/fly/user/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_user/out/production/classes/com/fly/user/web/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/module_user/out/production/classes/com/fly/user/web/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_user/src/main/java/com/fly/user/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/module_user/src/main/java/com/fly/user/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_user/src/main/java/com/fly/user/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/module_user/src/main/java/com/fly/user/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_user/src/main/java/com/fly/user/web/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/module_user/src/main/java/com/fly/user/web/UserController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -206,7 +199,7 @@
     <favorites_list name="FlyCloud" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -238,9 +231,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/moudle_user/src/main/java/com/fly/user/util/HttpUtils.java" />
-        <option value="$PROJECT_DIR$/moudle_user/src/main/java/com/fly/user/util/UserUtils.java" />
-        <option value="$PROJECT_DIR$/moudle_user/src/main/java/com/fly/user/web/UserController.java" />
         <option value="$PROJECT_DIR$/moudle_user/src/main/java/com/fly/user/UserServiceApplication.java" />
         <option value="$PROJECT_DIR$/sql/sys-blog.sql" />
         <option value="$PROJECT_DIR$/sql/sys-log.sql" />
@@ -272,23 +262,26 @@
         <option value="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/aop/SysLoggerAspect.java" />
         <option value="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/dao/BlogDao.java" />
         <option value="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/service/BlogService.java" />
-        <option value="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/service/NewsTypeService.java" />
         <option value="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/NewsServiceApplication.java" />
         <option value="$PROJECT_DIR$/lib_common/src/main/java/com/fly/common/dto/RespDTO.java" />
         <option value="$PROJECT_DIR$/module_news/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/module_config/src/main/resources/shared/news-service-pro.yml" />
         <option value="$PROJECT_DIR$/module_config/src/main/java/com/fly/config/ConfigServerApplication.java" />
         <option value="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/web/NewsController.java" />
-        <option value="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/entity/NewsType.java" />
-        <option value="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/entity/NewsDetail.java" />
         <option value="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/dao/NewsTypeDao.java" />
         <option value="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/dao/NewsDetailDao.java" />
-        <option value="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/web/NewsTypeController.java" />
-        <option value="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/service/NewsDetailService.java" />
-        <option value="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/web/NewsDetailController.java" />
         <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
         <option value="$PROJECT_DIR$/.idea/compiler.xml" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/module_user/src/main/java/com/fly/user/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/module_user/src/main/java/com/fly/user/service/UserService.java" />
+        <option value="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/service/NewsTypeService.java" />
+        <option value="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/service/NewsDetailService.java" />
+        <option value="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/web/NewsDetailController.java" />
+        <option value="$PROJECT_DIR$/module_user/src/main/java/com/fly/user/web/UserController.java" />
+        <option value="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/web/NewsTypeController.java" />
+        <option value="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/entity/NewsType.java" />
+        <option value="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/entity/NewsDetail.java" />
       </list>
     </option>
   </component>
@@ -310,29 +303,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="FlyCloud-2.0.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FlyCloud-2.0.0" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="FlyCloud-2.0.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FlyCloud-2.0.0" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FlyCloud-2.0.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FlyCloud-2.0.0" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="FlyCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FlyCloud" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -344,7 +327,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560649887082" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561302443551" />
     <property name="dynamic.classpath" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -452,99 +435,86 @@
         </RuleState>
       </list>
     </option>
-    <option name="contentProportion" value="0.52360517" />
+    <option name="contentProportion" value="0.2534153" />
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaServerApplication">
+  <component name="RunManager" selected="Spring Boot.AdminServiceApplication">
     <configuration name="AdminServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="com.fly.module_admin.main" />
+      <module name="module_admin.com.fly.module_admin.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fly.admin.AdminServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="BlogServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="com.fly.module_blog.main" />
+      <module name="module_blog.com.fly.module_blog.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fly.blog.BlogServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="com.fly.module_config.main" />
+      <module name="module_config.com.fly.module_config.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fly.config.ConfigServerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="com.fly.module_eureka.main" />
+      <module name="module_eureka.com.fly.module_eureka.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fly.eureka.EurekaServerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="GatewayServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="com.fly.module_gateway.main" />
+      <module name="module_gateway.com.fly.module_gateway.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fly.gateway.GatewayServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="LogServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="com.fly.module_log.main" />
+      <module name="module_log.com.fly.module_log.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fly.log.LogServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="MonitorServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="com.fly.module_monitor.main" />
+      <module name="module_monitor.com.fly.module_monitor.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fly.monitor.MonitorServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="NewsServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="com.fly.module_news.main" />
+      <module name="module_news.com.fly.module_news.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fly.news.NewsServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="UaaServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="com.fly.module_uaa.main" />
+      <module name="module_uaa.com.fly.module_uaa.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fly.uaa.UaaServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="com.fly.module_user.main" />
+      <module name="module_user.com.fly.module_user.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fly.user.UserServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ZipkinServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="com.fly.module_zipkin.main" />
+      <module name="module_zipkin.com.fly.module_zipkin.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fly.zipkin.ZipkinServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Spring Boot.AdminServiceApplication" />
-      <item itemvalue="Spring Boot.ConfigServerApplication" />
-      <item itemvalue="Spring Boot.EurekaServerApplication" />
-      <item itemvalue="Spring Boot.GatewayServiceApplication" />
-      <item itemvalue="Spring Boot.MonitorServiceApplication" />
-      <item itemvalue="Spring Boot.LogServiceApplication" />
-      <item itemvalue="Spring Boot.UaaServiceApplication" />
-      <item itemvalue="Spring Boot.UserServiceApplication" />
-      <item itemvalue="Spring Boot.BlogServiceApplication" />
-      <item itemvalue="Spring Boot.ZipkinServiceApplication" />
-      <item itemvalue="Spring Boot.NewsServiceApplication" />
-    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -577,6 +547,9 @@
       <workItem from="1560646043205" duration="1505000" />
       <workItem from="1560647612431" duration="1103000" />
       <workItem from="1560648826960" duration="1457000" />
+      <workItem from="1561159258945" duration="216000" />
+      <workItem from="1561159509769" duration="3952000" />
+      <workItem from="1561250775987" duration="14452000" />
     </task>
     <task id="LOCAL-00001" summary="app update">
       <created>1559721472069</created>
@@ -589,12 +562,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98791000" />
+    <option name="totallyTimeSpent" value="117411000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973046" visible="true" weight="0.25871313" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973046" visible="true" weight="0.26541555" />
       <window_info id="Structure" order="1" sideWeight="0.50269544" side_tool="true" weight="0.36461318" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -609,16 +582,16 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.3180593" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49932975" weight="0.31728044" />
       <window_info anchor="bottom" id="Spring" order="8" weight="0.32884097" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.20040214" side_tool="true" visible="true" weight="0.41926345" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.2917847" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.20174263" side_tool="true" weight="0.21671388" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49798927" weight="0.51699716" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32884097" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
-      <window_info anchor="bottom" id="Version Control" order="15" weight="0.34770888" />
-      <window_info anchor="bottom" id="Run Dashboard" order="16" sideWeight="0.79959786" visible="true" weight="0.41926345" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.34702548" />
+      <window_info anchor="bottom" id="Run Dashboard" order="16" sideWeight="0.79825735" visible="true" weight="0.08215298" />
       <window_info anchor="bottom" id="REST Client" order="17" weight="0.69541776" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -633,7 +606,7 @@
       <window_info anchor="right" id="Bean Validation" order="10" weight="0.3295129" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973046" visible="true" weight="0.36461318" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973046" visible="true" weight="0.26541555" />
       <window_info id="Structure" order="1" sideWeight="0.50269544" side_tool="true" weight="0.36461318" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -648,16 +621,16 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.3180593" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49932975" weight="0.31728044" />
       <window_info anchor="bottom" id="Spring" order="8" weight="0.32884097" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.29245284" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.20174263" side_tool="true" weight="0.21671388" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49798927" weight="0.51699716" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32884097" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
-      <window_info anchor="bottom" id="Version Control" order="15" weight="0.34770888" />
-      <window_info active="true" anchor="bottom" id="Run Dashboard" order="16" visible="true" weight="0.65768194" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.34702548" />
+      <window_info anchor="bottom" id="Run Dashboard" order="16" sideWeight="0.79825735" weight="0.9575071" />
       <window_info anchor="bottom" id="REST Client" order="17" weight="0.69541776" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -675,6 +648,16 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="app update" />
     <option name="LAST_COMMIT_MESSAGE" value="app update" />
@@ -684,57 +667,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/module_blog/src/main/java/com/fly/blog/util/HttpUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1522">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_blog/src/main/java/com/fly/blog/web/BlogController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-453">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib_common/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib_common/src/main/java/com/fly/common/annotation/SysLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib_common/src/main/java/com/fly/common/dto/RespDTO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-          <folding>
-            <element signature="e#706#707#0" expanded="true" />
-            <element signature="e#738#739#0" expanded="true" />
-            <element signature="e#780#781#0" expanded="true" />
-            <element signature="e#814#815#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib_common/src/main/java/com/fly/common/exception/CommonException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib_common/src/main/java/com/fly/common/exception/ErrorCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/module_config/src/main/resources/shared/uaa-service-pro.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -769,13 +701,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module_user/src/main/java/com/fly/user/web/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="30" column="41" lean-forward="true" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/module_news/src/main/java/com/fly/news/NewsServiceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -783,39 +708,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module_user/src/main/java/com/fly/user/entity/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/module_news/src/main/java/com/fly/news/entity/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="14" selection-start-line="14" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_news/src/main/java/com/fly/news/entity/NewsType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="33" column="66" lean-forward="true" selection-start-line="32" selection-start-column="3" selection-end-line="33" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#740#741#0" expanded="true" />
-            <element signature="e#765#766#0" expanded="true" />
-            <element signature="e#799#800#0" expanded="true" />
-            <element signature="e#827#828#0" expanded="true" />
-            <element signature="e#869#870#0" expanded="true" />
-            <element signature="e#900#901#0" expanded="true" />
-            <element signature="e#948#949#0" expanded="true" />
-            <element signature="e#988#989#0" expanded="true" />
-            <element signature="e#1020#1021#0" expanded="true" />
-            <element signature="e#1050#1051#0" expanded="true" />
-            <element signature="e#1094#1095#0" expanded="true" />
-            <element signature="e#1132#1133#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -858,79 +754,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module_news/src/main/java/com/fly/news/entity/NewsDetail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sql/sys-blog.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_news/src/main/java/com/fly/news/web/NewsTypeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="51" column="30" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_news/src/main/java/com/fly/news/web/NewsDetailController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_news/src/main/java/com/fly/news/service/NewsTypeService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#627#628#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_news/src/main/java/com/fly/news/service/NewsDetailService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
-          <folding>
-            <element signature="e#708#709#0" expanded="true" />
-            <element signature="e#748#749#0" expanded="true" />
-            <element signature="e#808#809#0" expanded="true" />
-            <element signature="e#865#866#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_news/src/main/java/com/fly/news/dao/NewsDetailDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_user/src/main/java/com/fly/user/dao/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -951,13 +778,6 @@
             <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -1016,6 +836,170 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
           <caret line="344" column="25" lean-forward="true" selection-start-line="344" selection-start-column="25" selection-end-line="344" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_user/src/main/java/com/fly/user/dto/LoginDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib_common/src/main/java/com/fly/common/dto/RespDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_user/src/main/java/com/fly/user/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_user/src/main/java/com/fly/user/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.11.8.RELEASE/50f212b50c938a11ab6bc6e4b092357bacbc0502/spring-data-jpa-1.11.8.RELEASE-sources.jar!/org/springframework/data/jpa/repository/JpaRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="61" column="26" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_user/src/main/java/com/fly/user/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+          <folding>
+            <element signature="e#894#895#0" expanded="true" />
+            <element signature="e#949#950#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_news/src/main/java/com/fly/news/dao/NewsDetailDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/1.13.8.RELEASE/8977efb05a9c6dea150ef43c41bbcc26f7bd1fa1/spring-data-commons-1.13.8.RELEASE-sources.jar!/org/springframework/data/repository/CrudRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="35" column="35" lean-forward="true" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_news/src/main/java/com/fly/news/service/NewsTypeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#752#753#0" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_user/src/main/java/com/fly/user/web/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_news/src/main/java/com/fly/news/service/NewsDetailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+            <element signature="e#708#709#0" expanded="true" />
+            <element signature="e#748#749#0" expanded="true" />
+            <element signature="e#807#808#0" expanded="true" />
+            <element signature="e#864#865#0" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+            <element signature="e#865#866#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_news/src/main/java/com/fly/news/web/NewsTypeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="34" column="47" lean-forward="true" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1200">
+          <caret line="66" column="67" selection-start-line="66" selection-start-column="67" selection-end-line="66" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_news/src/main/java/com/fly/news/web/NewsDetailController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_news/src/main/java/com/fly/news/entity/NewsType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="34" column="3" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_news/src/main/java/com/fly/news/entity/NewsDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/sys-news_routines.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>

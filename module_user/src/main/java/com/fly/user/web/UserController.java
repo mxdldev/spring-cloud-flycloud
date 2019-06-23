@@ -6,7 +6,6 @@ import com.fly.user.entity.User;
 import com.fly.user.service.UserService;
 import com.fly.user.util.BPwdEncoderUtils;
 import io.swagger.annotations.ApiOperation;
-import org.springframework.amqp.core.AmqpTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;
@@ -53,11 +52,4 @@ public class UserController {
         User user=  userService.getUserInfo(username);
         return RespDTO.onSuc(user);
     }
-
-//    @Autowired
-//    private AmqpTemplate rabbitTemplate;
-//    @GetMapping("/test")
-//    public void test(){
-//        rabbitTemplate.convertAndSend(RabbitConfig.queueName, "Hello from RabbitMQ!");
-//    }
 }

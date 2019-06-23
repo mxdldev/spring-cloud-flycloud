@@ -34,13 +34,21 @@ public class NewsDetailController {
         return RespDTO.onSuc(newsDetail1);
     }
 
-    @ApiOperation(value = "获取指定类型的新闻详情", notes = "获取指定类型的新闻详情")
+    @ApiOperation(value = "获取指定类型的新闻列表", notes = "获取指定类型的新闻列表")
     @PreAuthorize("hasAuthority('ROLE_USER')")
     @PostMapping("/query/all")
     @SysLogger("getListNewsDetail")
     public RespDTO getListNewsDetail(int typid){
         List<NewsDetail> newsDetails = newsDetailService.findListByTypeid(typid);
         return RespDTO.onSuc(newsDetails);
+    }
+
+    @ApiOperation(value = "根据id查询新闻详情", notes = "根据id查询新闻详情")
+    @PreAuthorize("hasAuthority('ROLE_USER')")
+    @GetMapping("/{id}/detail")
+    @SysLogger("queryNewsDetail")
+    public RespDTO getNewsDetail(@PathVariable Long id){
+        return RespDTO.onSuc(newsDetailService.findNewsDetailById(id));
     }
 
     @ApiOperation(value = "根据id删除新闻详情", notes = "根据id删除新闻详情")
