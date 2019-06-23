@@ -42,25 +42,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9f366cc-d6b3-4967-a989-a813e7df54f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sql/sys-news_news_detail.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/sys-news_news_type.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/sys-news_routines.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/admin-service-pro.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/admin-service-pro.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_news/out/production/classes/META-INF/com.fly.module_news.main.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_news/out/production/classes/com/fly/news/entity/NewsType.class" beforeDir="false" afterPath="$PROJECT_DIR$/module_news/out/production/classes/com/fly/news/entity/NewsType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_news/out/production/classes/com/fly/news/service/NewsDetailService.class" beforeDir="false" afterPath="$PROJECT_DIR$/module_news/out/production/classes/com/fly/news/service/NewsDetailService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_news/out/production/classes/com/fly/news/web/NewsDetailController.class" beforeDir="false" afterPath="$PROJECT_DIR$/module_news/out/production/classes/com/fly/news/web/NewsDetailController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_news/out/production/classes/com/fly/news/web/NewsTypeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/module_news/out/production/classes/com/fly/news/web/NewsTypeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/entity/NewsDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/entity/NewsDetail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/entity/NewsType.java" beforeDir="false" afterPath="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/entity/NewsType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/service/NewsDetailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/service/NewsDetailService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/web/NewsDetailController.java" beforeDir="false" afterPath="$PROJECT_DIR$/module_news/src/main/java/com/fly/news/web/NewsDetailController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_user/out/production/classes/com/fly/user/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/module_user/out/production/classes/com/fly/user/service/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_user/out/production/classes/com/fly/user/web/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/module_user/out/production/classes/com/fly/user/web/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_user/src/main/java/com/fly/user/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/module_user/src/main/java/com/fly/user/dao/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_user/src/main/java/com/fly/user/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/module_user/src/main/java/com/fly/user/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_user/src/main/java/com/fly/user/web/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/module_user/src/main/java/com/fly/user/web/UserController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -327,7 +309,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561302443551" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561303173089" />
     <property name="dynamic.classpath" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -346,11 +328,11 @@
       <recent name="com.fly.eureka" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspring\FlyCloud\sql" />
       <recent name="D:\springwork\FlyCloud\sql" />
       <recent name="D:\springwork\FlyCloud\module_config\src\main\resources\shared" />
       <recent name="D:\springwork\FlyCloud\module_news\src\main\resources" />
       <recent name="D:\springwork\FlyCloud\module_news\src\main\java\com\fly\news" />
-      <recent name="D:\springwork\FlyCloud\moudle_blog\src\main\resources" />
     </key>
   </component>
   <component name="RestClientSettings">
@@ -549,7 +531,7 @@
       <workItem from="1560648826960" duration="1457000" />
       <workItem from="1561159258945" duration="216000" />
       <workItem from="1561159509769" duration="3952000" />
-      <workItem from="1561250775987" duration="14452000" />
+      <workItem from="1561250775987" duration="14729000" />
     </task>
     <task id="LOCAL-00001" summary="app update">
       <created>1559721472069</created>
@@ -562,12 +544,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117411000" />
+    <option name="totallyTimeSpent" value="117688000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973046" visible="true" weight="0.26541555" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973046" visible="true" weight="0.26541555" />
       <window_info id="Structure" order="1" sideWeight="0.50269544" side_tool="true" weight="0.36461318" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -591,7 +573,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32884097" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
       <window_info anchor="bottom" id="Version Control" order="15" weight="0.34702548" />
-      <window_info anchor="bottom" id="Run Dashboard" order="16" sideWeight="0.79825735" visible="true" weight="0.08215298" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="16" sideWeight="0.79825735" visible="true" weight="0.08498584" />
       <window_info anchor="bottom" id="REST Client" order="17" weight="0.69541776" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -827,11 +809,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logs/admin-service-pro.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3750" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
@@ -1002,6 +979,9 @@
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/admin-service-pro.log">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
