@@ -9,7 +9,7 @@ import java.util.Date;
 
 /**
  * Description: <NewsType><br>
- * Author:    门心叼龙<br>
+ * Author:    mxdl<br>
  * Date:      2019/6/11<br>
  * Version:    V1.0.0<br>
  * Update:     <br>
