@@ -2,8 +2,32 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="com.fly.FlyCloud.main" target="1.8" />
+      <module name="com.fly.FlyCloud.test" target="1.8" />
+      <module name="com.fly.lib_common.main" target="1.8" />
+      <module name="com.fly.lib_common.test" target="1.8" />
+      <module name="com.fly.module_admin.main" target="1.8" />
+      <module name="com.fly.module_admin.test" target="1.8" />
       <module name="com.fly.module_blog.main" target="1.8" />
       <module name="com.fly.module_blog.test" target="1.8" />
+      <module name="com.fly.module_config.main" target="1.8" />
+      <module name="com.fly.module_config.test" target="1.8" />
+      <module name="com.fly.module_eureka.main" target="1.8" />
+      <module name="com.fly.module_eureka.test" target="1.8" />
+      <module name="com.fly.module_gateway.main" target="1.8" />
+      <module name="com.fly.module_gateway.test" target="1.8" />
+      <module name="com.fly.module_log.main" target="1.8" />
+      <module name="com.fly.module_log.test" target="1.8" />
+      <module name="com.fly.module_monitor.main" target="1.8" />
+      <module name="com.fly.module_monitor.test" target="1.8" />
+      <module name="com.fly.module_news.main" target="1.8" />
+      <module name="com.fly.module_news.test" target="1.8" />
+      <module name="com.fly.module_uaa.main" target="1.8" />
+      <module name="com.fly.module_uaa.test" target="1.8" />
+      <module name="com.fly.module_user.main" target="1.8" />
+      <module name="com.fly.module_user.test" target="1.8" />
+      <module name="com.fly.module_zipkin.main" target="1.8" />
+      <module name="com.fly.module_zipkin.test" target="1.8" />
       <module name="com.fly.moudle_.main" target="1.8" />
       <module name="com.fly.moudle_.test" target="1.8" />
       <module name="com.fly.moudle_admin.main" target="1.8" />
