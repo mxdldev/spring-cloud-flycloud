@@ -1,5 +1,6 @@
 package com.fly.news.entity;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
 import org.springframework.data.annotation.CreatedDate;
 
 import javax.persistence.*;
@@ -30,6 +31,7 @@ public class NewsDetail {
     private String content;
 
     @CreatedDate
+    @JsonFormat(locale="zh", timezone="GMT+8", pattern="yyyy-MM-dd HH:mm:ss")
     @Column(name = "addtime", updatable = false, nullable = false)
     private Date addtime;
 

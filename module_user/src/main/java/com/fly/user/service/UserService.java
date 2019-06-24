@@ -7,8 +7,8 @@ import com.fly.user.dao.UserDao;
 import com.fly.user.dto.LoginDTO;
 import com.fly.user.entity.JWT;
 import com.fly.user.entity.User;
-import com.fly.user.util.BPwdEncoderUtils;
 import com.fly.user.client.AuthServiceClient;
+import com.fly.user.util.BPwdEncoderUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -23,6 +23,7 @@ import org.springframework.stereotype.Service;
 public class UserService {
 
     @Autowired
+    public
     UserDao userDao;
     @Autowired
     AuthServiceClient authServiceClient;
@@ -34,7 +35,8 @@ public class UserService {
     public User getUserInfo(String username){
         return userDao.findByUsername(username);
     }
-    public RespDTO login(String username , String password){
+
+    public RespDTO login(String username, String password){
        User user= userDao.findByUsername(username);
        if(null==user){
            throw new CommonException(ErrorCode.USER_NOT_FOUND);
