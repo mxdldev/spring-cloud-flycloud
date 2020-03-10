@@ -1,0 +1,78 @@
+POST http://192.168.31.105:8762/user/login?username=gxl&password=123456
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-09T114020.500.json
+
+###
+
+POST http://192.168.31.105:8762/user/login?username=gxl&password=123456
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-09T075630.200.json
+
+###
+
+POST http://192.168.31.105:8762/user/login?username=gxl&password=123456
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-09T075613.200.json
+
+###
+
+POST http://192.168.31.105:8762/user/login?username=gxl&password=123456
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-09T072234.200.json
+
+###
+
+POST http://192.168.31.105:8762/user/login?username=gxl&password=123456
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-09T065020.500.json
+
+###
+
+POST http://192.168.31.105:8762/user/login?username=gxl&password=123456
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-09T064526.200.json
+
+###
+
+POST http://192.168.31.105:8762/user/login?username=gxl&password=123456
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-09T062737.500.json
+
+###
+
+POST http://192.168.31.105:8762/user/login?username=gxl&password=123456
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-09T062531.200.json
+
+###
+
+POST http://192.168.31.102:8762/user/login?username=gxl&password=123456
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://laptop-btkihh20:8762/user/login?username=gxl&password=123456
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-09T062234.200.json
+
+###
+

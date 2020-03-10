@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" addBOMForNewFiles="with NO BOM">
-    <file url="file://$PROJECT_DIR$/module_blog/src/main/resources/public.cert" charset="US-ASCII" />
-    <file url="file://$PROJECT_DIR$/module_news/src/main/resources/public.cert" charset="US-ASCII" />
-    <file url="file://$PROJECT_DIR$/module_user/src/main/resources/public.cert" charset="US-ASCII" />
-  </component>
+  <component name="Encoding" addBOMForNewFiles="with NO BOM" />
 </project>

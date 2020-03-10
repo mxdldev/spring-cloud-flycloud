@@ -56,7 +56,6 @@ public class SwaggerConfig {
                 .title(" blog-service api ")
                 .description("blog-service 微服务")
                 .termsOfServiceUrl("")
-                .contact("fly")
                 .version("1.0")
                 .build();
     }
