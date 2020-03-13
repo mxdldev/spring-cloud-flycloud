@@ -1,16 +1,39 @@
+#hystrix:
+#  command:
+#    default:
+#      execution:
+#        isolation:
+#          thread:
+#            timeoutInMilliseconds: 20000
 hystrix:
+  threadpool.default.coreSize: "20"
+  threadpool.default.maxQueueSize: "500000"
+  threadpool.default.keepAliveTimeMinutes: "2"
+  threadpool.default.queueSizeRejectionThreshold: "500000"
   command:
     default:
+      fallback.isolation.semaphore.maxConcurrentRequests: "20"
       execution:
+        timeout:
+          enabled: "false"
         isolation:
+          strategy: "THREAD"
           thread:
-            timeoutInMilliseconds: 20000
+            timeoutInMilliseconds: "30000"
 
 ribbon:
+  eager-load:
+    enabled: true
+    clients: user-service,news-service
+
   ReadTimeout: 20000
   ConnectTimeout: 20000
 
 zuul:
+  ribbon:
+    eager-load:
+      enabled: true
+
   host:
     connect-timeout-millis: 20000
     socket-timeout-millis: 20000
@@ -19,6 +42,11 @@ zuul:
     user-service:
       path: /userapi/**
       serviceId: user-service
+      sensitiveHeaders:
+
+    news-service:
+      path: /newsapi/**
+      serviceId: news-service
       sensitiveHeaders:
 
     blog-service:

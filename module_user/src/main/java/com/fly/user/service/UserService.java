@@ -39,7 +39,6 @@ public class UserService {
 
     public RespDTO login(String username, String password) {
         User user = userDao.findByUsername(username);
-        int a = 1/0;
         if (null == user) {
             throw new CommonException(ErrorCode.USER_NOT_FOUND);
         }
@@ -47,7 +46,9 @@ public class UserService {
             throw new CommonException(ErrorCode.USER_PASSWORD_ERROR);
         }
         JWT jwt = authServiceClient.getToken("Basic dWFhLXNlcnZpY2U6MTIzNDU2", "password", username, password);
-        // 获得用户菜单
+        if (null == jwt) {
+            jwt = authServiceClient.getToken("Basic dWFhLXNlcnZpY2U6MTIzNDU2", "password", username, password);
+        }
         if (null == jwt) {
             throw new CommonException(ErrorCode.GET_TOKEN_FAIL);
         }

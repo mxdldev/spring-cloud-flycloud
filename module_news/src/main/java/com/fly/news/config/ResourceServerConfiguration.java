@@ -36,7 +36,7 @@ public class ResourceServerConfiguration extends ResourceServerConfigurerAdapter
     @Override
     public void configure(ResourceServerSecurityConfigurer resources) throws Exception {
         log.info("Configuring ResourceServerSecurityConfigurer ");
-        resources.resourceId("user-service").tokenStore(tokenStore);
+        resources.resourceId("news-service").tokenStore(tokenStore);
     }
 
     @Autowired

@@ -22,6 +22,7 @@ public class LoggerService {
     private AmqpTemplate rabbitTemplate;
 
     public void log(SysLog sysLog){
+        System.out.println("MYTAG:User LoggerService log start...");
         rabbitTemplate.convertAndSend(RabbitConfig.queueName, JSON.toJSONString(sysLog));
     }
 }

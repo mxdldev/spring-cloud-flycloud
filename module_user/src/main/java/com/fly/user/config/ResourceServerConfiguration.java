@@ -27,7 +27,7 @@ public class ResourceServerConfiguration extends ResourceServerConfigurerAdapter
         http
                 .csrf().disable()
                 .authorizeRequests()
-                .regexMatchers(".*swagger.*",".*v2.*",".*webjars.*","/user/login.*","/user/registry.*","/user/test.*").permitAll()
+                .regexMatchers(".*swagger.*",".*v2.*",".*webjars.*","/user/hi.*","/user/login.*","/user/registry.*","/user/test.*").permitAll()
                 .antMatchers("/**").authenticated();
 //        .antMatchers("/**").permitAll();
     }

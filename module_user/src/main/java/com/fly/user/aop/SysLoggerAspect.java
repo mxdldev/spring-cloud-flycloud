@@ -39,6 +39,7 @@ public class SysLoggerAspect {
 
     @Before("loggerPointCut()")
     public void saveSysLog(JoinPoint joinPoint) {
+        System.out.println("MYTAG:User SysLoggerAspect saveLogger start...");
         MethodSignature signature = (MethodSignature) joinPoint.getSignature();
         Method method = signature.getMethod();
 

@@ -7,6 +7,7 @@ import com.fly.user.service.UserService;
 import com.fly.user.util.BPwdEncoderUtils;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;
 
@@ -51,5 +52,12 @@ public class UserController {
         //参数判读省略
         User user=  userService.getUserInfo(username);
         return RespDTO.onSuc(user);
+    }
+
+    @Value("${server.port}")
+    String port;
+    @GetMapping("/hi")
+    public String home(@RequestParam String name) {
+        return "hi "+name+",i am from port:" +port;
     }
 }

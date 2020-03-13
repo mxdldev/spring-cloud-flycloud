@@ -13,12 +13,13 @@ import org.springframework.stereotype.Service;
  * Update:     <br>
  */
 @Service
-public class SysLogService {
+public class  SysLogService {
 
     @Autowired
     SysLogDAO sysLogDAO;
 
     public void saveLogger(SysLog sysLog){
+        System.out.println("MYTAG:Logger saveLogger start...");
         sysLogDAO.save(sysLog);
     }
 }
