@@ -6,10 +6,21 @@ csdn地址：[https://blog.csdn.net/geduo_83/article/details/87866018](https://b
 在该框架中包括了用 Spring Cloud 构建微服务的一系列基本组件和框架，对于后台服务框架的搭建有很大的参考价值，大家可以参考甚至稍加修改可以直接应用于自己的实际的项目开发中。
 
 ### 更新日志：
-###### FlyCloud 2.0.0 2019-06-08
+
+### [FlyCloud 3.0.0](https://github.com/mxdldev/spring-cloud-flycloud/releases) 2019-03-23
+* spring boot + security + oauth2 单一结构体改造
+
+### [FlyCloud 2.2.0](https://github.com/mxdldev/spring-cloud-flycloud/releases) 2019-03-09
+* springboot 升级为2.0.5
+
+### [FlyCloud 2.1.0](https://github.com/mxdldev/spring-cloud-flycloud/releases) 2019-07-01
+* 相关bug修改
+* 代码优化
+
+### [FlyCloud 2.0.0](https://github.com/mxdldev/spring-cloud-flycloud/releases) 2019-06-08
 * 业务组件module_news添加
 
-###### FlyCloud 1.0.0 2019-02-28
+### [FlyCloud 1.0.0](https://github.com/mxdldev/spring-cloud-flycloud/releases) 2019-02-28
 初始版本：
 * 1.配置组件：注册中心、配置中心、授权中心
 * 2.监控组件：聚合监控、熔断监控、路由监控
