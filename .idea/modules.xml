@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/spring-boot-security-oauth2-example.iml" filepath="$PROJECT_DIR$/spring-boot-security-oauth2-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Flycloud-master.iml" filepath="$PROJECT_DIR$/.idea/modules/Flycloud-master.iml" group="Flycloud-master" />
     </modules>
   </component>
 </project>

@@ -6,10 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-boot-security-oauth2-example" />
+        <module name="Flycloud-master" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Flycloud-master" target="1.8" />
       <module name="spring-boot-security-oauth2-example" target="1.8" />
     </bytecodeTargetLevel>
   </component>
