@@ -1,9 +1,9 @@
 dependencies {
     compile 'org.springframework.boot:spring-boot-starter-actuator'
     compile 'org.springframework.cloud:spring-cloud-starter-config'
-    compile 'org.springframework.cloud:spring-cloud-starter-turbine'
-    compile 'org.springframework.cloud:spring-cloud-starter-hystrix-dashboard'
-    compile 'org.springframework.cloud:spring-cloud-starter-hystrix'
+    compile 'org.springframework.cloud:spring-cloud-starter-netflix-turbine'
+    compile 'org.springframework.cloud:spring-cloud-starter-netflix-hystrix-dashboard'
+    compile 'org.springframework.cloud:spring-cloud-starter-netflix-hystrix'
 }
 jar {
     manifest {

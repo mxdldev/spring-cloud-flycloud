@@ -1,16 +1,18 @@
 dependencies {
     compile 'org.springframework.cloud:spring-cloud-starter-config'
-    compile 'org.springframework.cloud:spring-cloud-starter-turbine'
-    compile 'org.springframework.cloud:spring-cloud-starter-hystrix-dashboard'
-    compile 'org.springframework.cloud:spring-cloud-starter-hystrix'
+    compile 'org.springframework.cloud:spring-cloud-starter-netflix-turbine'
+    compile 'org.springframework.cloud:spring-cloud-starter-netflix-hystrix-dashboard'
+    compile 'org.springframework.cloud:spring-cloud-starter-netflix-hystrix'
 
     compile 'org.springframework.boot:spring-boot-starter-actuator'
     compile 'org.springframework.boot:spring-boot-starter-security'
-    compile 'de.codecentric:spring-boot-admin-server-ui:1.5.7'
-    compile 'de.codecentric:spring-boot-admin-server-ui-turbine:1.5.7'
-    compile 'de.codecentric:spring-boot-admin-server-ui-hystrix:1.5.7'
-    compile 'de.codecentric:spring-boot-admin-server-ui-login:1.5.0'
-    compile 'de.codecentric:spring-boot-admin-server-ui-activiti:1.5.0'
+
+    compile 'de.codecentric:spring-boot-admin-starter-server:2.0.0'
+    compile 'de.codecentric:spring-boot-admin-server-ui:2.0.0'
+//    compile 'de.codecentric:spring-boot-admin-server-ui-turbine:1.5.7'
+//    compile 'de.codecentric:spring-boot-admin-server-ui-hystrix:1.5.7'
+//    compile 'de.codecentric:spring-boot-admin-server-ui-login:1.5.0'
+//    compile 'de.codecentric:spring-boot-admin-server-ui-activiti:1.5.0'
 
     compile 'org.jolokia:jolokia-core'
 }

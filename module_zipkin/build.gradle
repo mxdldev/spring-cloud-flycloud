@@ -1,9 +1,11 @@
 dependencies {
+    compile 'org.springframework.cloud:spring-cloud-starter-netflix-eureka-client'
     compile 'org.springframework.boot:spring-boot-starter-web'
-    compile 'org.springframework.cloud:spring-cloud-starter-eureka'
     compile 'org.springframework.cloud:spring-cloud-starter-config'
-    compile 'io.zipkin.java:zipkin-server'
-    compile 'io.zipkin.java:zipkin-autoconfigure-ui'
+    compile ('io.zipkin.java:zipkin-server:2.11.7'){
+        exclude group: 'org.springframework.boot',module:'spring-boot-starter-log4j2'
+    }
+    compile 'io.zipkin.java:zipkin-autoconfigure-ui:2.11.7'
 }
 jar {
     manifest {

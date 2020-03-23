@@ -30,7 +30,7 @@ public class OAuth2Config extends AuthorizationServerConfigurerAdapter {
     public void configure(ClientDetailsServiceConfigurer clients) throws Exception {
         clients.inMemory()
                 .withClient("uaa-service")
-                .secret("123456")
+                .secret("{noop}123456")
                 .scopes("service")
                 .autoApprove(true)
                 .authorizedGrantTypes("implicit","refresh_token", "password", "authorization_code")

@@ -1,6 +1,4 @@
 package com.fly.news.service;
-
-
 import com.fly.news.dao.NewsTypeDao;
 import com.fly.news.entity.NewsType;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -28,7 +26,7 @@ public class NewsTypeService {
     }
 
     public void deleteBlog(long id) {
-         newsTypeDao.delete(id);
+         newsTypeDao.deleteById(id);
     }
 
     public List<NewsType> findListNewsType(){

@@ -28,10 +28,10 @@ public class NewsDetailService {
     }
 
     public void deleteNewsDetail(long id) {
-        newsDetailDao.delete(id);
+        newsDetailDao.deleteById(id);
     }
     public NewsDetail findNewsDetailById(long id) {
-        return newsDetailDao.findOne(id);
+        return newsDetailDao.findById(id).get();
     }
     public List<NewsDetail> findListByTypeid(int typeid) {
         return newsDetailDao.findByTypeid(typeid);

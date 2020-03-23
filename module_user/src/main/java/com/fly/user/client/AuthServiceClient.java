@@ -2,7 +2,7 @@ package com.fly.user.client;
 
 import com.fly.user.client.hystrix.AuthServiceHystrix;
 import com.fly.user.entity.JWT;
-import org.springframework.cloud.netflix.feign.FeignClient;
+import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.*;
 
 

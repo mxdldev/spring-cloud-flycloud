@@ -11,6 +11,7 @@ import com.fly.user.client.AuthServiceClient;
 import com.fly.user.util.BPwdEncoderUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.security.oauth2.provider.token.DefaultTokenServices;
 import org.springframework.stereotype.Service;
 
 /**
@@ -46,9 +47,7 @@ public class UserService {
             throw new CommonException(ErrorCode.USER_PASSWORD_ERROR);
         }
         JWT jwt = authServiceClient.getToken("Basic dWFhLXNlcnZpY2U6MTIzNDU2", "password", username, password);
-        if (null == jwt) {
-            jwt = authServiceClient.getToken("Basic dWFhLXNlcnZpY2U6MTIzNDU2", "password", username, password);
-        }
+
         if (null == jwt) {
             throw new CommonException(ErrorCode.GET_TOKEN_FAIL);
         }

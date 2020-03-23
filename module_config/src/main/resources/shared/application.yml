@@ -30,9 +30,18 @@ eureka:
 management:
   security:
     enabled: false
-
+#
 feign:
   hystrix:
-    enabled: true
-
-
+    enabled: false
+##### Feign 配置
+#feign:
+#  # 是否开启断路器（熔断器）
+#  hystrix:
+#    enabled: true
+#  client:
+#    config:
+#      default:
+#        connect-timeout: 20000
+#        read-timeout: 20000
+#

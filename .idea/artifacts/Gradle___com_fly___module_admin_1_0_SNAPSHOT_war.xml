@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : com.fly : module_admin-1.0-SNAPSHOT.war">
+    <output-path>$PROJECT_DIR$/module_admin/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$" />
+    </properties>
+    <root id="archive" name="module_admin-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Gradle : com.fly : module_admin-1.0-SNAPSHOT.war (exploded)" />
+    </root>
+  </artifact>
+</component>

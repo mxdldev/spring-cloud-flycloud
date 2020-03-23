@@ -8,14 +8,17 @@ buildscript {
         mavenCentral()
     }
     dependencies {
+
         classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
         //classpath "se.transmode.gradle:gradle-docker:${transmodeGradleDockerVersion}"
     }
 }
 allprojects {
+    apply plugin: 'war'
     apply plugin: 'java'
     apply plugin: 'org.springframework.boot'
     apply plugin: 'idea'
+    apply plugin: 'io.spring.dependency-management'
 
     group = 'com.fly'
     version = '1.0-SNAPSHOT'
@@ -28,6 +31,9 @@ allprojects {
         maven { url "https://repo.spring.io/libs-milestone/" }
         jcenter()
         mavenCentral()
+
+        google()
+        maven { url 'https://jitpack.io' }
     }
 
     dependencies {

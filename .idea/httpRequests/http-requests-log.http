@@ -1,25 +1,8 @@
-POST http://192.168.31.105:5000/newsapi/newstype//query/all?password=123456&username=gxl
-Accept: */*
-Cache-Control: no-cache
-Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1ODQwOTQ5MDcsInVzZXJfbmFtZSI6Imd4bCIsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiIsIlJPTEVfQURNSU4iXSwianRpIjoiNGM3MzM5YTItYjcwMi00Mjc0LWEzYzgtYzgzZGY4ODc4OTcwIiwiY2xpZW50X2lkIjoidWFhLXNlcnZpY2UiLCJzY29wZSI6WyJzZXJ2aWNlIl19.HVX2Ka9wV1a6rOseCFoAdLVHigpI6wzPUN1Tr_ZGpUGaX7TrqFIr-GmEMkKny5krCWEznz4BKtAEfDy_hoKS4T0SV1DwkQpfKR_nWbd9TvLQhJcL7PgXgkUZGijo-9Uk2n4lIzgVCnBBvUfVFDnXeTHwHbi_6INmbv6nh3qD6HeDgbUe4EWBhRZQ_fR-fxiNlqRWiz9rLWPZYhy_kbOg11ymkPM0BEaJT0S9UitfhKu3Hz06fkI0tGdH2xmwjh6N0Rzbpw8sjIxJIswlw2C4GUXx7qB8V-X4FfWyYblHJgz0hN120EniWaT4nx9BiEx6RAGBV4LMH4h6F6dcZEkDZw
-
-<> 2020-03-12T062324.200.json
-
-###
-
-POST http://192.168.31.105:5000/newsapi/user/login?password=123456&username=gxl
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-12T062209.401.json
-
-###
-
-POST http://192.168.31.105:5000/userapi/user/login?password=123456&username=gxl
-Accept: */*
-Cache-Control: no-cache
-
-<> 2020-03-12T062147.200.json
+<> 2020-03-16T080432.500.json
 
 ###
 
@@ -27,373 +10,391 @@ POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-12T025017.200.json
+<> 2020-03-16T080431.500.json
 
 ###
 
-POST http://192.168.31.105:8762/userapi/user/login?password=123&username=gyp
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-12T025008.401.json
+<> 2020-03-16T080423.500.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?password=123&username=gyp
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-12T024947.200.json
+<> 2020-03-16T080414.500.json
 
 ###
 
-POST http://192.168.31.105:5000/userapi/user/login?password=123456&username=gxl
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-12T024846.200.json
+<> 2020-03-16T080035.200.json
 
 ###
 
-POST http://192.168.31.105:5000/userapi/user/login?password=123456&username=gxl
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-12T024830.200.json
+<> 2020-03-16T080034-3.200.json
 
 ###
 
-POST http://192.168.31.105:8762/userapi/user/login?password=123456&username=gxl
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-12T024813.401.json
+<> 2020-03-16T080034-2.200.json
 
 ###
 
-POST http://192.168.31.105:8762/userapi/user/login?password=123456&username=gxl
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-12T024811.401.json
+<> 2020-03-16T080034-1.200.json
 
 ###
 
-POST http://192.168.31.105:8762/abc/user/login?password=123456&username=gxl
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-12T024724.401.json
+<> 2020-03-16T080034.200.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?password=123456&username=gxl
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-12T024702.200.json
+<> 2020-03-16T080033-5.200.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?password=123456&username=gxl
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T030237.200.json
+<> 2020-03-16T080033-4.200.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?password=123456&username=gxl
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T030049.200.json
+<> 2020-03-16T080033-3.200.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?password=123456&username=gxl
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T030037.200.json
+<> 2020-03-16T080033-2.200.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?password=123&username=gyc
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T025541.200.json
+<> 2020-03-16T080033-1.200.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?password=123&username=gyp
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T025224.200.json
+<> 2020-03-16T080033.200.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?password=123&username=gyc
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T025107.200.json
+<> 2020-03-16T080032.200.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?password=123&username=gyc
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T025106.200.json
+<> 2020-03-16T080031.200.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?password=123&username=gyc
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T024831.200.json
+<> 2020-03-16T080030-1.200.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?password=123&username=gyc
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T024830.200.json
+<> 2020-03-16T080030.200.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?password=123&username=gyc
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T024829.200.json
+<> 2020-03-16T080029.200.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?password=123&username=gyc
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T024740.200.json
+<> 2020-03-16T080027.200.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?password=123&username=gyc
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T024606.200.json
+<> 2020-03-16T075727.200.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?password=123456&username=gxl
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T022745.200.json
+<> 2020-03-16T073513-4.500.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?password=123&username=gyc
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T022519.200.json
+<> 2020-03-16T073513-3.500.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?password=123&username=gyc
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T022310.200.json
+<> 2020-03-16T073513-2.500.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?password=123456&username=gxl
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T021933.200.json
+<> 2020-03-16T073513-1.500.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?password=123456&username=gxl
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T021928.200.json
+<> 2020-03-16T073513.500.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?password=123456&username=gxl
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T021926.200.json
+<> 2020-03-16T073512-2.500.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?password=123456&username=gxl
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T021923.200.json
+<> 2020-03-16T073512-1.500.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?username=gxl&password=123456
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T021025.200.json
+<> 2020-03-16T073512.500.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?username=gxl&password=123456
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T021023.200.json
+<> 2020-03-16T073511.500.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?username=gxl&password=123456
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T021007.200.json
+<> 2020-03-16T073510-1.500.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?username=gyc&password=123
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T020430.200.json
+<> 2020-03-16T073510.500.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?username=gyc&password=123
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T020418.200.json
+<> 2020-03-16T073509-1.500.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?username=gxl&password=123456
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
+
+<> 2020-03-16T073509.500.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?username=gyc&password=123
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T015836.200.json
+<> 2020-03-16T073508.500.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?username=gyc&password=123
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T015820.200.json
+<> 2020-03-16T073507.500.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?username=gyc&password=123
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T015516.200.json
+<> 2020-03-16T073504.500.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?username=gxl&password=123456
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T015431.200.json
+<> 2020-03-16T073500.500.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?username=gxl&password=123456
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T015426.200.json
+<> 2020-03-16T073347.200.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?username=gyp&password=123
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T015013.200.json
+<> 2020-03-16T073346.200.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?username=gxl&password=123456
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T014948.200.json
+<> 2020-03-16T073345.200.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?username=gyp&password=123
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T014655.200.json
+<> 2020-03-16T073344.200.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?username=gyp&password=123
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T014654.200.json
+<> 2020-03-16T073341.200.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?username=gyp&password=123
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T014649.200.json
+<> 2020-03-16T073326.500.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?username=gyp&password=123
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T014644.200.json
+<> 2020-03-16T073325.500.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?username=gyp&password=123
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T014642.200.json
+<> 2020-03-16T073324.500.json
 
 ###
 
-POST http://192.168.31.105:8762/user/login?username=gyp&password=123
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
 Accept: */*
 Cache-Control: no-cache
 
-<> 2020-03-11T014638.200.json
+<> 2020-03-16T073319-1.500.json
+
+###
+
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-16T073319.500.json
+
+###
+
+POST http://192.168.31.105:5000/userapi/user/login?password=123&username=gyp
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-16T073318.500.json
 
 ###
 
