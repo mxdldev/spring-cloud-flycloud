@@ -7,10 +7,10 @@ csdn地址：[https://blog.csdn.net/geduo_83/article/details/87866018](https://b
 
 ### 更新日志：
 
-### [FlyCloud 3.0.0](https://github.com/mxdldev/spring-cloud-flycloud/releases) 2019-03-23
+### [FlyCloud 3.0.0](https://github.com/mxdldev/spring-cloud-flycloud/releases) 2020-03-23
 * spring boot + security + oauth2 单一结构体改造
 
-### [FlyCloud 2.2.0](https://github.com/mxdldev/spring-cloud-flycloud/releases) 2019-03-09
+### [FlyCloud 2.2.0](https://github.com/mxdldev/spring-cloud-flycloud/releases) 2020-03-09
 * springboot 升级为2.0.5
 
 ### [FlyCloud 2.1.0](https://github.com/mxdldev/spring-cloud-flycloud/releases) 2019-07-01
