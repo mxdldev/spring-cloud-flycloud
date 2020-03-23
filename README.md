@@ -8,7 +8,9 @@ csdn地址：[https://blog.csdn.net/geduo_83/article/details/87866018](https://b
 ### 更新日志：
 
 ### [FlyCloud 3.0.0](https://github.com/mxdldev/spring-cloud-flycloud/releases) 2020-03-23
+为了满足广大开发者的便于测试、便于部署需求，对FlyCloud进行了单一结构体改造，并将其部署在了外网上，接口文档如下：[http://106.12.61.238:8080/swagger-ui.html](http://106.12.61.238:8080/swagger-ui.html)
 * spring boot + security + oauth2 单一结构体改造
+* 将所有的访问接口开放在外网上
 
 ### [FlyCloud 2.2.0](https://github.com/mxdldev/spring-cloud-flycloud/releases) 2020-03-09
 * springboot 升级为2.0.5
